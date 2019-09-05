@@ -1,5 +1,4 @@
-# NetPy '19
-## Introduction to network analysis in Python
+# NetPy '19: Introduction to network analysis in Python
 
 ###### Workshop instructor
 
@@ -47,7 +46,7 @@ The workshop is based on the Masters level course [**Introduction to Network Ana
 
 ![4knights](figs/4knights.png)
 
-## 1. Classical graph theory $\rightarrow$ modern network science
+## 1. Classical graph theory → modern network science
 
 ###### Tentative duration
 
