@@ -17,6 +17,7 @@ Thursday, **19th September 2019 at 3:30 PM** (4 hours with breaks)
 + **GitHub** repository at [**http://github.com/lovre/netpy**](http://github.com/lovre/netpy)
 + **WWW** repository at [**http://lovro.lpt.fri.uni-lj.si/netpy**](http://lovro.lpt.fri.uni-lj.si/netpy)
 + **Piazza** forum at [**http://piazza.com/fri.uni-lj.si/fall2019/netpy**](http://piazza.com/fri.uni-lj.si/fall2019/netpy)
++ **Slovenian** dictionary at [**http://github.com/lovre/netpy/misc/dict.pdf**](http://github.com/lovre/netpy/misc/dict.pdf)
 
 ###### High-level description
 
