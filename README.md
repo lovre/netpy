@@ -150,7 +150,7 @@ The workshop is based on the Masters level course [**Introduction to Network Ana
 
 **TODO**
 
-![fraud](figs/fraud.png)
+![collisions](figs/collisions.png)
 
 ###### Slides and materials
 
