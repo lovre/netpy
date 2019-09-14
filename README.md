@@ -68,8 +68,8 @@ The workshop is based on the Masters level course [**Introduction to Network Ana
 ###### Selected must-reads
 
 + Cramer, C., Porter, M.A. et al., [_Network Literacy: Essential Concepts and Core Ideas_](https://sites.google.com/a/binghamton.edu/netscied/Network-Literacy-low-res.pdf?attredirects=0) (Creative Commons Licence, 2015).
-+ Barabási, A.-L., [The network takeover](http://github.com/lovre/netpy/literature/Barabasi%20-%20The%20network%20takeover,%202012.pdf), _Nat. Phys._ **8**(1), 14-16 (2012).
-+ Motter, A.E. & Yang, Y., [The unfolding and control of network cascades](http://github.com/lovre/netpy/literature/Motter%20and%20Yang%20-%20The%20unfolding%20and%20control%20of%20network%20cascades,%202017.pdf), _Phys. Today_ **70**(1), 33-39 (2017).
++ Barabási, A.-L., The network takeover, _Nat. Phys._ **8**(1), 14-16 (2012).
++ Motter, A.E. & Yang, Y., The unfolding and control of network cascades, _Phys. Today_ **70**(1), 33-39 (2017).
 
 ###### Book chapters
 
@@ -79,12 +79,12 @@ The workshop is based on the Masters level course [**Introduction to Network Ana
 
 ###### Selected papers
 
-+ Newman, M.E.J., [The physics of networks](http://github.com/lovre/netpy/literature/Newman%20-%20The%20physics%20of%20networks,%202008.pdf), _Phys. Today_ **61**(11), 33-38 (2008).
++ Newman, M.E.J., The physics of networks, _Phys. Today_ **61**(11), 33-38 (2008).
 + Cimini, G., Squartini, T. et al., [The statistical physics of real-world networks](https://arxiv.org/abs/1810.05095), _Nat. Rev. Phys._ **1**(1), 58-71 (2019).
-+ Newman, M.E.J., [Communities, modules and large-scale structure in networks](http://github.com/lovre/netpy/literature/Newman%20-%20Communities,%20modules%20and%20large-scale%20structure%20in%20networks,%202012), _Nat. Phys._ **8**(1), 25-31 (2012).
-+ Vespignani, A., [Modelling dynamical processes in complex socio-technical systems](http://github.com/lovre/netpy/literature/Vespignani%20-%20Modelling%20dynamical%20processes%20in%20complex%20socio-technical%20systems,%202012.pdf), _Nat. Phys._ **8**(1), 32-39 (2012).
++ Newman, M.E.J., Communities, modules and large-scale structure in networks, _Nat. Phys._ **8**(1), 25-31 (2012).
++ Vespignani, A., Modelling dynamical processes in complex socio-technical systems, _Nat. Phys._ **8**(1), 32-39 (2012).
 + Hegeman, T. & Iosup, A., [Survey of graph analysis applications](https://arxiv.org/abs/1807.00382), e-print _arXiv:180700382v1_, pp. 23 (2018).
-+ Hidalgo, C.A., [Disconnected, fragmented, or united? A trans-disciplinary review of network science](http://github.com/lovre/netpy/literature/Hidalgo%20-%20Disconnected,%20fragmented,%20or%20united%20-%20A%20trans%20disciplinary%20review%20of%20network%20science,%202016), _Appl. Netw. Sci._ **1**, 6 (2016).
++ Hidalgo, C.A., Disconnected, fragmented, or united? A trans-disciplinary review of network science, _Appl. Netw. Sci._ **1**, 6 (2016).
 
 ## 2. Large-scale network structure and graph models
 
