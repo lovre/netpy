@@ -29,13 +29,15 @@ The workshop is based on the Masters level course [**Introduction to Network Ana
 **It is recommended that attendees bring a laptop with a working installation of [Python](http://www.python.org), and the [NetworkX](http://networkx.github.io) and [CDlib](http://cdlib.readthedocs.io) packages. Alternatively, you can work with any other network analysis package such as [igraph](http://igraph.org), [graph-tool](http://graph-tool.skewed.de) or [SNAP.py](http://snap.stanford.edu/snappy/).** Finally, for the purposes of visualization of smaller networks, it is recommended to have a working installation of some network analysis software such as [Gephi](http://gephi.org) or [visone](http://visone.info).
 
 ###### Tentative syllabus
+
++ **Challenge**: Warmup Guimera's four knights challenge (10 min)
 1. From classical graph theory to **modern network science** (30 min)
 2. **Large-scale structure** of real networks and graph **models** (50 min)
 3. Measures of **node importance** and link analysis **algorithms** (50 min)
 4. Network **community**, **core-periphery** and **equivalence** structure (50 min)
 5. Network-based **mining**, **visualization** and practical **applications** (50 min)
 
-+ **Hands-on**: Abstraction, centrality, clusters, mining and visualization.
++ **Hands-on**: Abstraction, centrality, clusters, mining and visualization (x min)
 
 ## Let's start with Guimera's four knights challenge
 
