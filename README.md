@@ -47,7 +47,7 @@ The workshop is based on the Masters level course [**Introduction to Network Ana
 
 ###### Challenge description
 
-**To be revealed in class =)**
+To be **revealed in class** =)
 
 ![4knights](figs/4knights.png)
 
@@ -65,9 +65,9 @@ The workshop is based on the Masters level course [**Introduction to Network Ana
 
 ###### Lecture slides
 
-+ Lecture on [**Networks introduction and motivational examples**](http://lovro.lpt.fri.uni-lj.si/netpy/intro.pdf)
-+ Lecture on [**Brief historical development of network science**](http://lovro.lpt.fri.uni-lj.si/netpy/history.pdf)
-+ Lecture on [**Network perspectives in fields of science**](http://lovro.lpt.fri.uni-lj.si/netpy/perspects.pdf)
++ [**Networks introduction and motivational examples**](http://lovro.lpt.fri.uni-lj.si/netpy/intro.pdf)
++ [**Brief historical development of network science**](http://lovro.lpt.fri.uni-lj.si/netpy/history.pdf)
++ [**Network perspectives through science**](http://lovro.lpt.fri.uni-lj.si/netpy/perspects.pdf) (tentative)
 
 ###### Book chapters
 
@@ -77,9 +77,9 @@ The workshop is based on the Masters level course [**Introduction to Network Ana
 
 ###### Selected must-reads
 
-+ Cramer, C., Porter, M.A. et al., [_Network Literacy: Essential Concepts and Core Ideas_](https://sites.google.com/a/binghamton.edu/netscied/Network-Literacy-low-res.pdf?attredirects=0) (Creative Commons Licence, 2015).
 + Barabási, A.-L., The network takeover, _Nat. Phys._ **8**(1), 14-16 (2012).
 + Motter, A.E. & Yang, Y., The unfolding and control of network cascades, _Phys. Today_ **70**(1), 33-39 (2017).
++ Cramer, C., Porter, M.A. et al., [_Network Literacy: Essential Concepts and Core Ideas_](https://sites.google.com/a/binghamton.edu/netscied/Network-Literacy-low-res.pdf?attredirects=0) (Creative Commons Licence, 2015).
 
 ###### Selected papers
 
@@ -144,15 +144,24 @@ The workshop is based on the Masters level course [**Introduction to Network Ana
 
 ###### Book chapters
 
-**TODO**
++ Ch. 7: Measures and metrics in Newman, M.E.J., [_Networks: An Introduction_](https://global.oup.com/academic/product/networks-9780198805090?cc=si&lang=en&) (Oxford University Press, 2010).
++ Ch. 14: [Link analysis and Web search](https://www.cs.cornell.edu/home/kleinber/networks-book/networks-book-ch14.pdf) in Easley, D. & Kleinberg, J., [_Networks, Crowds, and Markets_](https://www.cs.cornell.edu/home/kleinber/networks-book/) (Cambridge University Press, 2010).
++ Ch. 14-15: Classical node centrality etc. in Estrada, E. & Knight, P.A., [_A First Course in Network Theory_](https://global.oup.com/academic/product/a-first-course-in-network-theory-9780198726463?cc=si&lang=en&) (Oxford University Press, 2015).
 
 ###### Selected must-reads
 
-**TODO**
++ Jeong, H., Mason, S.P. et al., Lethality and centrality in protein networks, _Nature_ **411**, 41-42 (2001).
++ Jensen, P., Morini, M. et al., [Detecting global bridges in networks](https://arxiv.org/abs/1509.08295), _J. Complex Netw._ **4**(3), 319-329 (2015).
++ Tong, H., Faloutsos, C. & Pan, J.-Y., Fast random walk with restart and its applications, In: _Proceedings of ICDM ’06_ (Washington, DC, USA, 2006), pp. 613-622.
 
 ###### Selected papers
 
-**TODO**
++ Freeman, L., A set of measures of centrality based on betweenness, _Sociometry_ **40**(1), 35-41 (1977).
++ Bonacich, P., Power and centrality: A family of measures, _Am. J. Sociology_ **92**(5), 1170-1182 (1987).
++ Kleinberg, J., Authoritative sources in a hyperlinked environment, _J. ACM_ **46**(5), 604-632 (1999).
++ Franceschet, M. & Bozzo, E., [A theory on power in networks](https://arxiv.org/abs/1510.08332), e-print _arXiv:1510.08332v2_, pp. 19 (2016).
++ Everett, M.G. & Valente, T.W., Bridging, brokerage and betweenness, _Soc. Networks_ **44**, 202-208 (2016).
++ Berkhin, P., A survey on PageRank computing, _Internet Math._ **2**(1), 73-120 (2005).
 
 ## 4. Clusters of nodes and network mesoscopic structure
 
