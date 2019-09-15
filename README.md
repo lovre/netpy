@@ -94,7 +94,7 @@ To be **revealed in class** =)
 
 ###### Tentative duration
 
-**20+30 min**
+**30+20 min**
 
 ###### Brief description
 
@@ -126,17 +126,19 @@ To be **revealed in class** =)
 
 ###### Tentative duration
 
-**20+30 min**
+**30+20 min**
 
 ###### Brief description
 
-**Node position** and **measures of centrality**, i.e. clustering coefficients, spectral, closeness and betweenness centrality, and link analysis algorithms. **Link importance** and **measures of bridging**, i.e. betweenness centrality, embeddedness and topological overlap.
+**Node importance** and **measures of centrality**, i.e. clustering coefficients, spectral, closeness and betweenness centrality, and link analysis algorithms. **Link importance** and **measures of bridging**, i.e. betweenness centrality, embeddedness and topological overlap.
 
 ![centrality](figs/centrality.png)
 
 ###### Lecture slides
 
-**TODO**
++ [**Node importance and measures of centrality**](http://lovro.lpt.fri.uni-lj.si/netpy/centrality.pdf)
++ [**Link analysis for web page importance**](http://lovro.lpt.fri.uni-lj.si/netpy/analysis.pdf) (tentative)
++ [**Link importance and measures of bridging**](http://lovro.lpt.fri.uni-lj.si/netpy/bridging.pdf) (tentative)
 
 ###### Hands-on analyses
 
@@ -167,7 +169,7 @@ To be **revealed in class** =)
 
 ###### Tentative duration
 
-**20+30 min**
+**30+20 min**
 
 ###### Brief description
 
@@ -199,7 +201,7 @@ To be **revealed in class** =)
 
 ###### Tentative duration
 
-**20+30 min**
+**30+20 min**
 
 ###### Brief description
 
