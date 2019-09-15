@@ -130,7 +130,7 @@ To be **revealed in class** =)
 
 ###### Brief description
 
-**TODO**
+**Node position** and **measures of centrality**, i.e. clustering coefficients, spectral, closeness and betweenness centrality, and link analysis algorithms. **Link importance** and **measures of bridging**, i.e. betweenness centrality, embeddedness and topological overlap.
 
 ![centrality](figs/centrality.png)
 
