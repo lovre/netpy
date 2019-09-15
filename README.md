@@ -106,7 +106,7 @@ To be **revealed in class** =)
 
 **TODO**
 
-###### Hands-on analyses
+###### Hands-on analysis
 
 **TODO**
 
@@ -140,9 +140,11 @@ To be **revealed in class** =)
 + [**Link analysis for web page importance**](http://lovro.lpt.fri.uni-lj.si/netpy/analysis.pdf) (tentative)
 + [**Link importance and measures of bridging**](http://lovro.lpt.fri.uni-lj.si/netpy/bridging.pdf) (tentative)
 
-###### Hands-on analyses
+###### Hands-on analysis
 
-**TODO**
++ [**Hands-on analysis**](http://lovro.lpt.fri.uni-lj.si/netpy/imdb.pdf) of IMDb actors collaboration network
++ [**IMDb actors collaboration network**](http://lovro.lpt.fri.uni-lj.si/netpy/imdb.net) in Pajek format etc.
++ [**Python script**](http://lovro.lpt.fri.uni-lj.si/netpy/imdb-starter.py) for IMDb actors collaboration network
 
 ###### Book chapters
 
@@ -181,7 +183,7 @@ To be **revealed in class** =)
 
 **TODO**
 
-###### Hands-on analyses
+###### Hands-on analysis
 
 **TODO**
 
@@ -213,7 +215,7 @@ To be **revealed in class** =)
 
 **TODO**
 
-###### Hands-on analyses
+###### Hands-on analysis
 
 **TODO**
 
