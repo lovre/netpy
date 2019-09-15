@@ -1,0 +1,14 @@
+# 'toy' undirected network
+# 5 nodes & 4 edges (0 loops)
+# by LNA (Ljubljana Network Analysis)
+#
+# 1 "1"
+# 2 "2"
+# 3 "3"
+# 4 "4"
+# 5 "5"
+#
+3 1
+1 2
+2 3
+3 4

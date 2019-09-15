@@ -1,0 +1,10 @@
+          Graph | 'imdb'
+           Type | '---'
+          Nodes | 17,577 (0)
+          Edges | 287,074 (0)
+        Degrees | 32.7 (1, 784)
+     Components | 99.3% (19)
+      Distances | 5.018 (15)
+     Clustering | 0.339056
+         Timing | 59.3 sec
+
