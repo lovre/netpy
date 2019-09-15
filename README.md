@@ -17,7 +17,7 @@ Thursday, **19th September 2019 at 3:30 PM** (4 hours with breaks)
 + **GitHub** repository at [**http://github.com/lovre/netpy**](http://github.com/lovre/netpy)
 + **WWW** repository at [**http://lovro.lpt.fri.uni-lj.si/netpy**](http://lovro.lpt.fri.uni-lj.si/netpy)
 + **Piazza** forum at [**http://piazza.com/fri.uni-lj.si/fall2019/netpy**](http://piazza.com/fri.uni-lj.si/fall2019/netpy)
-+ **Slovenian** dictionary at [**http://github.com/lovre/netpy/misc/dict.pdf**](http://github.com/lovre/netpy/misc/dict.pdf)
++ **Slovenian** dictionary at [**http://lovro.lpt.fri.uni-lj.si/netpy/dict.pdf**](http://lovro.lpt.fri.uni-lj.si/netpy/dict.pdf)
 
 ###### High-level description
 
@@ -37,7 +37,7 @@ The workshop is based on the Masters level course [**Introduction to Network Ana
 4. Network **community**, **core-periphery** and **equivalence** structure (50 min)
 5. Network-based **mining**, **visualization** and practical **applications** (50 min)
 
-+ **Hands-on**: Abstraction, centrality, clusters, mining and visualization (x min)
++ **Hands-on**: Abstraction, centrality, clusters, mining and visualization (~ min)
 
 ## Let's start with Guimera's four knights challenge
 
@@ -55,29 +55,31 @@ The workshop is based on the Masters level course [**Introduction to Network Ana
 
 ###### Tentative duration
 
-**10+20 min**
+**15+15 min**
 
-###### Subject description
+###### Brief description
 
-**TODO**
+**Introduction** of networks and selected **motivational examples**. From **classical graph theory** to social network analysis and **modern network science**. Network perspectives in different **fields of science**.
 
 ![transportation](figs/transportation.png)
 
-###### Slides and materials
+###### Lecture slides
 
-**TODO**
-
-###### Selected must-reads
-
-+ Cramer, C., Porter, M.A. et al., [_Network Literacy: Essential Concepts and Core Ideas_](https://sites.google.com/a/binghamton.edu/netscied/Network-Literacy-low-res.pdf?attredirects=0) (Creative Commons Licence, 2015).
-+ Barabási, A.-L., The network takeover, _Nat. Phys._ **8**(1), 14-16 (2012).
-+ Motter, A.E. & Yang, Y., The unfolding and control of network cascades, _Phys. Today_ **70**(1), 33-39 (2017).
++ Lecture on [**Networks introduction and motivational examples**](http://lovro.lpt.fri.uni-lj.si/netpy/intro.pdf)
++ Lecture on [**Brief historical development of network science**](http://lovro.lpt.fri.uni-lj.si/netpy/history.pdf)
++ Lecture on [**Network perspectives in fields of science**](http://lovro.lpt.fri.uni-lj.si/netpy/perspects.pdf)
 
 ###### Book chapters
 
 + Ch. 1: [Introduction](http://networksciencebook.com/chapter/1) in Barabási, A.-L., [_Network Science_](http://networksciencebook.com) (Cambridge University Press, 2016).
 + Ch. 1-5: Introduction etc. in Newman, M.E.J., [_Networks: An Introduction_](https://global.oup.com/academic/product/networks-9780198805090?cc=si&lang=en&) (Oxford University Press, 2010).
 + Ch. 1: [Overview](https://www.cs.cornell.edu/home/kleinber/networks-book/networks-book-ch01.pdf) in Easley, D. & Kleinberg, J., [_Networks, Crowds, and Markets_](https://www.cs.cornell.edu/home/kleinber/networks-book/) (Cambridge University Press, 2010).
+
+###### Selected must-reads
+
++ Cramer, C., Porter, M.A. et al., [_Network Literacy: Essential Concepts and Core Ideas_](https://sites.google.com/a/binghamton.edu/netscied/Network-Literacy-low-res.pdf?attredirects=0) (Creative Commons Licence, 2015).
++ Barabási, A.-L., The network takeover, _Nat. Phys._ **8**(1), 14-16 (2012).
++ Motter, A.E. & Yang, Y., The unfolding and control of network cascades, _Phys. Today_ **70**(1), 33-39 (2017).
 
 ###### Selected papers
 
@@ -94,13 +96,13 @@ The workshop is based on the Masters level course [**Introduction to Network Ana
 
 **20+30 min**
 
-###### Subject description
+###### Brief description
 
 **TODO**
 
 ![smallworld](figs/smallworld.png)
 
-###### Slides and materials
+###### Lecture slides
 
 **TODO**
 
@@ -108,7 +110,15 @@ The workshop is based on the Masters level course [**Introduction to Network Ana
 
 **TODO**
 
-###### Selected literature
+###### Book chapters
+
+**TODO**
+
+###### Selected must-reads
+
+**TODO**
+
+###### Selected papers
 
 **TODO**
 
@@ -118,13 +128,13 @@ The workshop is based on the Masters level course [**Introduction to Network Ana
 
 **20+30 min**
 
-###### Subject description
+###### Brief description
 
 **TODO**
 
 ![centrality](figs/centrality.png)
 
-###### Slides and materials
+###### Lecture slides
 
 **TODO**
 
@@ -132,7 +142,15 @@ The workshop is based on the Masters level course [**Introduction to Network Ana
 
 **TODO**
 
-###### Selected literature
+###### Book chapters
+
+**TODO**
+
+###### Selected must-reads
+
+**TODO**
+
+###### Selected papers
 
 **TODO**
 
@@ -142,13 +160,13 @@ The workshop is based on the Masters level course [**Introduction to Network Ana
 
 **20+30 min**
 
-###### Subject description
+###### Brief description
 
 **TODO**
 
 ![community](figs/community.png)
 
-###### Slides and materials
+###### Lecture slides
 
 **TODO**
 
@@ -156,7 +174,15 @@ The workshop is based on the Masters level course [**Introduction to Network Ana
 
 **TODO**
 
-###### Selected literature
+###### Book chapters
+
+**TODO**
+
+###### Selected must-reads
+
+**TODO**
+
+###### Selected papers
 
 **TODO**
 
@@ -166,13 +192,13 @@ The workshop is based on the Masters level course [**Introduction to Network Ana
 
 **20+30 min**
 
-###### Subject description
+###### Brief description
 
 **TODO**
 
 ![collisions](figs/collisions.png)
 
-###### Slides and materials
+###### Lecture slides
 
 **TODO**
 
@@ -180,6 +206,14 @@ The workshop is based on the Masters level course [**Introduction to Network Ana
 
 **TODO**
 
-###### Selected literature
+###### Book chapters
+
+**TODO**
+
+###### Selected must-reads
+
+**TODO**
+
+###### Selected papers
 
 **TODO**
