@@ -10,7 +10,7 @@ Thursday, **19th September 2019 at 3:30 PM** (4 hours with breaks)
 
 ###### Workshop location
 
-**Lecture room 3 at [UL FRI](http://www.fri.uni-lj.si)**, Večna pot 113, Ljubljana
+**Lecture room 3 at [UL FRI](http://www.fri.uni-lj.si)**, Večna pot 113, Ljubljana, Slovenia
 
 ###### Materials and forum
 
@@ -43,12 +43,19 @@ The workshop is based on the Masters level course [**Introduction to Network Ana
 
 All networks are available in Pajek, edge list in LNA formats.
 
-+ [**Simple toy example networks**](http://lovro.lpt.fri.uni-lj.si/netpy/toy.net) (5 nodes)
++ [**Simple toy example network**](http://lovro.lpt.fri.uni-lj.si/netpy/toy.net) (5 nodes)
 + [**Zachary's karate club network**](http://lovro.lpt.fri.uni-lj.si/netpy/karate.net) (34 nodes)
 + [**Davis's southern women network**](http://lovro.lpt.fri.uni-lj.si/netpy/women.net) (32 nodes)
-+ [**Game of Thrones kills network**](http://lovro.lpt.fri.uni-lj.si/netpy/got.net) (284 nodes)
-+ [**LPP public bus transport network**](http://lovro.lpt.fri.uni-lj.si/netpy/lpp.net) (416 nodes)
++ [**Lusseau's bottlenose dolphins network**](http://lovro.lpt.fri.uni-lj.si/netpy/dolphins.net) (62 nodes)
++ [**Game of Thrones character appearance network**](http://lovro.lpt.fri.uni-lj.si/netpy/got-appearance.net) (107 nodes)
++ [**Human diseasome network by common symptoms**](http://lovro.lpt.fri.uni-lj.si/netpy/diseasome.net) (117 nodes)
++ [**Conflicts and alliances between world nations**](http://lovro.lpt.fri.uni-lj.si/netpy/wars.net) (180 nodes)
++ [**Game of Thrones character kills network**](http://lovro.lpt.fri.uni-lj.si/netpy/got-kills.net) (284 nodes)
++ [**Ljubljana public bus transport network**](http://lovro.lpt.fri.uni-lj.si/netpy/lpp.net) (416 nodes)
++ [**US airplane traffic transport network**](http://lovro.lpt.fri.uni-lj.si/netpy/transport.net) (1,323 nodes)
++ [**Java software class dependency network**](http://lovro.lpt.fri.uni-lj.si/netpy/java.net) (1,516 nodes)
 + [**IMDb actors collaboration network**](http://lovro.lpt.fri.uni-lj.si/netpy/imdb.net) (17,577 nodes)
++ [**WikiLeaks cable reference network**](http://lovro.lpt.fri.uni-lj.si/netpy/wikileaks.net) (52,416 nodes)
 
 ## Let's start with Guimera's four knights challenge
 
@@ -109,29 +116,29 @@ To be **revealed in class** =)
 
 ###### Brief description
 
-**TODO**
+<span style="font-size:large;font-weight:bold;color:#B53737">TODO</span>
 
 ![smallworld](figs/smallworld.png)
 
 ###### Lecture slides
 
-**TODO**
+<span style="font-size:large;font-weight:bold;color:#B53737">TODO</span>
 
 ###### Hands-on analysis
 
-**TODO**
+<span style="font-size:large;font-weight:bold;color:#B53737">TODO</span>
 
 ###### Book chapters
 
-**TODO**
+<span style="font-size:large;font-weight:bold;color:#B53737">TODO</span>
 
 ###### Selected must-reads
 
-**TODO**
+<span style="font-size:large;font-weight:bold;color:#B53737">TODO</span>
 
 ###### Selected papers
 
-**TODO**
+<span style="font-size:large;font-weight:bold;color:#B53737">TODO</span>
 
 ## 3. Measures of node importance and link analysis
 
@@ -153,7 +160,7 @@ To be **revealed in class** =)
 
 ###### Hands-on analysis
 
-+ [**Node importance**](http://lovro.lpt.fri.uni-lj.si/netpy/position.pdf) of IMDb actors collaboration network
++ [**Node importance**](http://lovro.lpt.fri.uni-lj.si/netpy/position.pdf) in IMDb actors collaboration network
 + [**IMDb actors collaboration network**](http://lovro.lpt.fri.uni-lj.si/netpy/imdb.net) in Pajek format etc.
 + [**Starter script**](http://lovro.lpt.fri.uni-lj.si/netpy/position-starter.py) for IMDb actors collaboration network
 
@@ -199,7 +206,7 @@ Network **community**, **core-periphery** and other **mesoscopic** structures. G
 
 ###### Hands-on analysis
 
-**TODO**
+<span style="font-size:large;font-weight:bold;color:#B53737">TODO</span>
 
 ###### Book chapters
 
@@ -237,22 +244,22 @@ Network **community**, **core-periphery** and other **mesoscopic** structures. G
 
 ###### Brief description
 
-**TODO**
+<span style="font-size:large;font-weight:bold;color:#B53737">TODO</span>
 
 ![collisions](figs/collisions.png)
 
 ###### Lecture slides
 
-**TODO**
+<span style="font-size:large;font-weight:bold;color:#B53737">TODO</span>
 
 ###### Hands-on analysis
 
-**TODO**
+<span style="font-size:large;font-weight:bold;color:#B53737">TODO</span>
 
 ###### Selected must-reads
 
-**TODO**
+<span style="font-size:large;font-weight:bold;color:#B53737">TODO</span>
 
 ###### Selected papers
 
-**TODO**
+<span style="font-size:large;font-weight:bold;color:#B53737">TODO</span>

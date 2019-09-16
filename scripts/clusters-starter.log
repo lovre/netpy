@@ -1,0 +1,10 @@
+          Graph | 'wikileaks'
+           Type | '---'
+          Nodes | 52,416 (0)
+          Edges | 78,506 (0)
+        Degrees | 3.0 (1, 384)
+     Components | 100.0% (1)
+      Distances | 22.954 (70)
+     Clustering | 0.186419
+         Timing | 43.7 sec
+

@@ -1,0 +1,608 @@
+*vertices 117
+1 "Breast Neoplasms"
+2 "Stomach Neoplasms"
+3 "Glomerulonephritis, IGA"
+4 "Brain Neoplasms"
+5 "Testicular Neoplasms"
+6 "Ovarian Neoplasms"
+7 "Colonic Neoplasms"
+8 "Rectal Neoplasms"
+9 "Kidney Neoplasms"
+10 "Otosclerosis"
+11 "Thymus Neoplasms"
+12 "Gallbladder Neoplasms"
+13 "Skin Neoplasms"
+14 "Mucocutaneous Lymph Node Syndrome"
+15 "Osteitis Deformans"
+16 "Eye Neoplasms"
+17 "Liver Neoplasms"
+18 "Osteoporosis"
+19 "Asthma"
+20 "Migraine Disorders"
+21 "Hypothyroidism"
+22 "Narcolepsy"
+23 "Bipolar Disorder"
+24 "Arthritis, Rheumatoid"
+25 "Parkinson Disease"
+26 "Diabetes Mellitus, Type 2"
+27 "Alzheimer Disease"
+28 "Multiple Sclerosis"
+29 "Coronary Artery Disease"
+30 "Autistic Disorder"
+31 "Conduct Disorder"
+32 "Myocardial Ischemia"
+33 "Diabetes Mellitus, Type 1"
+34 "Cleft Lip"
+35 "Atherosclerosis"
+36 "Diabetes, Gestational"
+37 "Glioma"
+38 "Obesity"
+39 "Hypertension"
+40 "Metabolic Syndrome X"
+41 "Anemia"
+42 "Epilepsy"
+43 "Scleroderma, Systemic"
+44 "Myosarcoma"
+45 "Leiomyoma"
+46 "Uterine Neoplasms"
+47 "Alopecia Areata"
+48 "Vitiligo"
+49 "Barrett Esophagus"
+50 "Liver Cirrhosis, Biliary"
+51 "Leprosy"
+52 "Malaria"
+53 "Nephrolithiasis"
+54 "Hepatitis B"
+55 "Depressive Disorder"
+56 "Urinary Bladder Neoplasms"
+57 "Graves Disease"
+58 "Vaginal Neoplasms"
+59 "Melanoma"
+60 "Esophageal Neoplasms"
+61 "Fuchs' Endothelial Dystrophy"
+62 "Hematologic Neoplasms"
+63 "Dental Caries"
+64 "Pancreatic Neoplasms"
+65 "Laryngeal Neoplasms"
+66 "Vulvar Neoplasms"
+67 "Retroperitoneal Neoplasms"
+68 "Ureteral Neoplasms"
+69 "Bone Neoplasms"
+70 "Meningeal Neoplasms"
+71 "Glomerulosclerosis, Focal Segmental"
+72 "Spinal Cord Neoplasms"
+73 "Mediastinal Neoplasms"
+74 "Prostatic Neoplasms"
+75 "Vascular Neoplasms"
+76 "Spondylitis, Ankylosing"
+77 "Colitis, Ulcerative"
+78 "Crohn Disease"
+79 "Arthritis, Psoriatic"
+80 "Pulmonary Disease, Chronic Obstructive"
+81 "Schizophrenia"
+82 "Pancreatitis"
+83 "Panic Disorder"
+84 "Refractive Errors"
+85 "Creutzfeldt-Jakob Syndrome"
+86 "Kidney Failure, Chronic"
+87 "Coronary Disease"
+88 "Lupus Erythematosus, Systemic"
+89 "Behcet Syndrome"
+90 "Mesothelioma"
+91 "Bile Duct Neoplasms"
+92 "Appendiceal Neoplasms"
+93 "Adrenal Gland Neoplasms"
+94 "Cholangitis, Sclerosing"
+95 "Peripheral Nervous System Neoplasms"
+96 "Arthritis, Gouty"
+97 "Restless Legs Syndrome"
+98 "Celiac Disease"
+99 "Macular Degeneration"
+100 "Periodontitis"
+101 "Idiopathic Pulmonary Fibrosis"
+102 "Intracranial Aneurysm"
+103 "Glaucoma"
+104 "Tourette Syndrome"
+105 "Cardiomyopathy, Dilated"
+106 "Aortic Aneurysm, Abdominal"
+107 "Glomerulonephritis, Membranous"
+108 "Aortic Aneurysm, Thoracic"
+109 "Dermatitis, Atopic"
+110 "Attention Deficit Disorder with Hyperactivity"
+111 "Amyotrophic Lateral Sclerosis"
+112 "Neoplasms, Germ Cell and Embryonal"
+113 "Salivary Gland Neoplasms"
+114 "Fallopian Tube Neoplasms"
+115 "Head and Neck Neoplasms"
+116 "Polycystic Ovary Syndrome"
+117 "Jejunal Neoplasms"
+*edges 489
+1 2
+1 3
+1 4
+2 4
+1 5
+3 5
+1 6
+2 6
+3 6
+4 6
+7 8
+7 9
+8 9
+3 10
+7 10
+8 10
+3 11
+6 11
+7 11
+3 12
+5 12
+6 12
+7 12
+10 12
+11 12
+2 13
+3 14
+5 14
+11 14
+13 14
+3 15
+5 15
+13 15
+14 15
+7 16
+9 16
+10 16
+13 16
+2 17
+7 17
+8 17
+9 17
+13 17
+16 17
+18 19
+18 20
+17 21
+18 21
+9 21
+16 21
+18 22
+18 23
+20 24
+20 25
+23 25
+24 25
+24 26
+24 27
+25 27
+26 27
+24 28
+25 28
+27 28
+24 29
+25 29
+27 29
+28 29
+14 29
+19 30
+23 30
+25 30
+27 30
+28 30
+23 31
+27 31
+30 31
+7 32
+8 32
+7 33
+8 33
+26 33
+32 33
+32 34
+7 35
+32 35
+35 36
+26 36
+15 36
+35 37
+10 37
+32 37
+35 38
+19 38
+36 38
+30 38
+31 38
+19 39
+38 39
+38 40
+39 40
+25 40
+13 40
+19 41
+22 41
+39 41
+19 42
+38 42
+39 42
+30 42
+31 42
+26 43
+34 44
+20 44
+21 44
+41 44
+26 44
+10 44
+43 44
+16 44
+34 45
+37 45
+10 45
+43 45
+33 46
+7 46
+8 46
+43 46
+11 46
+41 47
+10 47
+43 47
+14 47
+15 47
+3 48
+22 48
+10 48
+14 48
+3 49
+10 49
+14 49
+15 49
+48 49
+40 50
+14 50
+15 50
+34 51
+22 51
+48 51
+51 52
+22 52
+48 52
+34 53
+51 53
+52 53
+37 53
+10 53
+45 53
+18 54
+23 54
+45 54
+54 55
+23 55
+25 55
+27 55
+30 55
+54 56
+45 56
+14 56
+15 56
+52 57
+22 57
+55 57
+34 58
+10 58
+44 58
+46 58
+19 59
+36 59
+22 59
+28 59
+48 59
+3 60
+10 60
+14 60
+15 60
+3 61
+4 61
+6 61
+10 61
+14 61
+15 61
+36 61
+47 61
+49 61
+50 61
+56 61
+60 61
+8 62
+11 62
+46 62
+17 63
+2 63
+34 63
+44 63
+45 63
+2 64
+6 64
+61 64
+14 64
+15 64
+3 65
+12 65
+61 65
+65 66
+3 66
+61 66
+15 66
+65 67
+66 67
+3 67
+61 67
+62 67
+14 67
+66 68
+67 68
+11 68
+62 68
+15 68
+17 69
+2 69
+4 69
+9 69
+16 69
+3 70
+68 70
+11 70
+61 70
+14 70
+15 70
+67 71
+3 71
+5 71
+70 71
+10 71
+11 71
+12 71
+14 71
+15 71
+50 71
+58 71
+61 71
+66 72
+3 72
+10 72
+61 72
+15 72
+3 73
+67 73
+70 73
+71 73
+14 73
+65 74
+66 74
+68 74
+11 74
+12 74
+3 75
+69 75
+71 75
+9 75
+10 75
+61 75
+71 76
+10 76
+61 76
+14 76
+15 76
+71 77
+43 77
+44 77
+45 77
+14 77
+3 78
+71 78
+10 78
+15 78
+3 79
+71 79
+61 79
+78 79
+14 79
+15 79
+35 80
+71 80
+61 80
+14 80
+15 80
+42 81
+27 81
+30 81
+31 81
+20 82
+7 82
+8 82
+15 82
+32 82
+3 83
+22 83
+55 83
+57 83
+10 83
+61 83
+67 84
+3 84
+71 84
+57 84
+81 85
+3 85
+71 85
+57 85
+61 85
+14 85
+15 85
+33 86
+17 86
+56 86
+9 86
+16 86
+55 87
+24 87
+27 87
+28 87
+29 87
+3 88
+10 88
+61 88
+14 88
+15 88
+3 89
+71 89
+10 89
+45 89
+14 89
+47 89
+84 89
+53 89
+61 89
+85 90
+53 90
+89 90
+61 90
+14 90
+50 91
+56 91
+76 91
+61 91
+15 91
+66 92
+3 92
+67 92
+61 92
+14 92
+3 93
+67 93
+10 93
+61 93
+3 94
+84 94
+71 94
+93 94
+61 94
+14 94
+15 94
+83 95
+84 95
+85 95
+72 95
+61 95
+5 96
+10 96
+12 96
+78 96
+3 97
+84 97
+10 97
+61 97
+14 97
+96 97
+49 98
+56 98
+57 98
+48 98
+1 99
+98 99
+84 99
+10 99
+3 100
+83 100
+22 100
+10 100
+48 100
+71 101
+10 101
+61 101
+14 101
+15 101
+65 102
+5 102
+89 102
+11 102
+12 102
+85 103
+53 103
+89 103
+10 103
+45 103
+49 104
+99 104
+85 104
+61 104
+14 104
+15 104
+3 105
+71 105
+89 105
+10 105
+61 105
+71 106
+10 106
+61 106
+15 106
+3 107
+68 107
+71 107
+106 107
+61 107
+14 107
+15 107
+3 108
+71 108
+61 108
+14 108
+15 108
+3 109
+10 109
+61 109
+14 109
+15 109
+84 110
+85 110
+53 110
+23 110
+90 110
+5 111
+105 111
+11 111
+15 111
+71 112
+11 112
+14 112
+94 112
+111 112
+53 113
+10 113
+61 113
+14 113
+15 113
+3 114
+56 114
+89 114
+61 114
+14 114
+15 114
+65 115
+5 115
+10 115
+11 115
+12 115
+10 116
+61 116
+14 116
+15 116
+48 116
+3 117
+61 117
+14 117
+94 117
+15 117
+112 117
