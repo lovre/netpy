@@ -153,9 +153,9 @@ To be **revealed in class** =)
 
 ###### Hands-on analysis
 
-+ [**Node importance**](http://lovro.lpt.fri.uni-lj.si/netpy/imdb.pdf) of IMDb actors collaboration network
++ [**Node importance**](http://lovro.lpt.fri.uni-lj.si/netpy/position.pdf) of IMDb actors collaboration network
 + [**IMDb actors collaboration network**](http://lovro.lpt.fri.uni-lj.si/netpy/imdb.net) in Pajek format etc.
-+ [**Starter script**](http://lovro.lpt.fri.uni-lj.si/netpy/imdb-starter.py) for IMDb actors collaboration network
++ [**Starter script**](http://lovro.lpt.fri.uni-lj.si/netpy/position-starter.py) for IMDb actors collaboration network
 
 ###### Book chapters
 
@@ -195,7 +195,7 @@ Network **community**, **core-periphery** and other **mesoscopic** structures. G
 + [**Node clustering and community structure**](http://lovro.lpt.fri.uni-lj.si/netpy/community.pdf)
 + [**Graph partitioning and community detection**](http://lovro.lpt.fri.uni-lj.si/netpy/clustering.pdf)
 + [**Blockmodeling and block models**](http://lovro.lpt.fri.uni-lj.si/netpy/blockmodeling.pdf) (tentative)
-+ [**Core-periphery structure and detection**](http://lovro.lpt.fri.uni-lj.si/netpy/cores.pdf) 
++ [**Core-periphery structure and decomposition**](http://lovro.lpt.fri.uni-lj.si/netpy/cores.pdf) 
 
 ###### Hands-on analysis
 
