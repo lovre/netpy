@@ -186,13 +186,16 @@ To be **revealed in class** =)
 
 ###### Brief description
 
-**TODO**
+Network **community**, **core-periphery** and other **mesoscopic** structures. Graph **partitioning**, community **detection**, **blockmodeling**, stochastic block models and core-periphery detection.
 
 ![community](figs/community.png)
 
 ###### Lecture slides
 
-**TODO**
++ [**Node clustering and community structure**](http://lovro.lpt.fri.uni-lj.si/netpy/community.pdf)
++ [**Graph partitioning and community detection**](http://lovro.lpt.fri.uni-lj.si/netpy/clustering.pdf)
++ [**Blockmodeling and block models**](http://lovro.lpt.fri.uni-lj.si/netpy/blockmodeling.pdf) (tentative)
++ [**Core-periphery structure and detection**](http://lovro.lpt.fri.uni-lj.si/netpy/cores.pdf) 
 
 ###### Hands-on analysis
 
@@ -243,10 +246,6 @@ To be **revealed in class** =)
 **TODO**
 
 ###### Hands-on analysis
-
-**TODO**
-
-###### Book chapters
 
 **TODO**
 
