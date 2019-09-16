@@ -1,0 +1,984 @@
+*vertices 416
+1 "tomacevo"
+2 "nove zale"
+3 "na zalah"
+4 "tomacevska"
+5 "kranjceva"
+6 "savske stolpnice"
+7 "topniska"
+8 "astra"
+9 "razstavisce"
+10 "bavarski dvor"
+11 "dalmatinova"
+12 "turist"
+13 "zmajski most"
+14 "krekov trg"
+15 "privoz"
+16 "trnovo"
+17 "veliki stradon"
+18 "livada"
+19 "ilovica"
+20 "lahova pot"
+21 "iski most"
+22 "barje"
+23 "pri maranzu"
+24 "izica"
+25 "havptmance"
+26 "ig petrol"
+27 "ig ap"
+28 "ig"
+29 "staje"
+30 "kot"
+31 "iska vas sola"
+32 "iska vas"
+33 "iska vas obracalisce"
+34 "tavcarjeva"
+35 "crnuce"
+36 "rogovilc"
+37 "kolodvor crnuce"
+38 "sava"
+39 "jezica"
+40 "ruski car"
+41 "stozice"
+42 "smelt"
+43 "amzs"
+44 "mercator"
+45 "stadion"
+46 "ajdovscina"
+47 "konzorcij"
+48 "drama"
+49 "askerceva"
+50 "tobacna"
+51 "hajdrihova"
+52 "stan in dom (lj. ilirija)*"
+53 "glince"
+54 "vic"
+55 "bonifacija"
+56 "dolgi most (lj. dolgi most gruda)*"
+57 "dolgi most p+r"
+58 "zelezna"
+59 "vevce"
+60 "bezigrad"
+61 "cesta na vevce"
+62 "polje"
+63 "kolodvor"
+64 "polje-kolodvor"
+65 "friskovec"
+66 "novo polje"
+67 "viadukt"
+68 "zadobrova"
+69 "srediska"
+70 "sneberje"
+71 "flajsmanova"
+72 "hrastje"
+73 "sola jarse"
+74 "nove jarse-smartinska"
+75 "jarse"
+76 "zito"
+77 "kodrova"
+78 "navje"
+79 "boziceva"
+80 "krizisce sostro"
+81 "kardeljeva ploscad"
+82 "cesta v zavoglje"
+83 "gasilska brigada"
+84 "zadvor"
+85 "kpl"
+86 "posta dobrunje"
+87 "dobrunje"
+88 "cesta v bizovik"
+89 "hrusica"
+90 "rast"
+91 "poljanska"
+92 "emona"
+93 "ambrozev trg"
+94 "stepanja vas"
+95 "roska"
+96 "pod golovcem"
+97 "gornje poljane"
+98 "krziceva"
+99 "stajerska"
+100 "bavarski dvor (kozolec)"
+101 "krizanke"
+102 "gornji trg"
+103 "strelisce"
+104 "rakovnik"
+105 "spodnji rudnik"
+106 "rudnik"
+107 "pod hribom"
+108 "lavrica pri malci"
+109 "lavrica"
+110 "skofljica petkovsek"
+111 "skofljica zaga"
+112 "skofljica"
+113 "skofljica javornik"
+114 "reber pri skofljici"
+115 "spilar"
+116 "mali vrh"
+117 "razdrto"
+118 "smarje"
+119 "sap"
+120 "cikava brvace"
+121 "stara posta"
+122 "pod gozdom"
+123 "adamicev spomenik"
+124 "ljubljanska"
+125 "os brinje"
+126 "kongo"
+127 "dom starejsih"
+128 "dom obrtnikov"
+129 "vodicar"
+130 "krpan"
+131 "mrzle njive"
+132 "grosuplje"
+133 "brvace"
+134 "cikava"
+135 "skofljica spica"
+136 "gosposvetska"
+137 "bavarski dvor (korabar)"
+138 "podutik"
+139 "murkova"
+140 "omersova"
+141 "pod kamno gorico"
+142 "draveljska gmajna"
+143 "koseze"
+144 "bratov ucakar"
+145 "kneza koclja"
+146 "slovenija avto"
+147 "kino siska"
+148 "stara cerkev"
+149 "tivoli"
+150 "ilirska"
+151 "hrvatski trg"
+152 "glonarjeva"
+153 "jana husa"
+154 "kodeljevo"
+155 "stepanjsko nas."
+156 "sisenska"
+157 "gameljne"
+158 "rasica"
+159 "rasica zg."
+160 "zg. gameljne"
+161 "smartno"
+162 "tacen"
+163 "tacenski most"
+164 "ob daljnovodu"
+165 "tabor"
+166 "na klancu"
+167 "kosmaceva"
+168 "sentvid"
+169 "podgora"
+170 "prusnikova"
+171 "imp"
+172 "tehnounion"
+173 "ljubljanske brigade"
+174 "litostrojska"
+175 "elma"
+176 "slandrova"
+177 "obrtna cona"
+178 "cesta na brod"
+179 "slovenijales"
+180 "brnciceva"
+181 "stepanjsko naselje"
+182 "zaloska"
+183 "trznica moste"
+184 "bolnica"
+185 "klinicni center"
+186 "poliklinika"
+187 "mirje"
+188 "ziherlova"
+189 "murgle"
+190 "opekarska"
+191 "pot na rakovo jelso"
+192 "barje p+r"
+193 "posta"
+194 "ob sotocju"
+195 "smona"
+196 "dobrova greben"
+197 "dobrova"
+198 "razori"
+199 "drazevnik"
+200 "komanija"
+201 "podsmreka g. d."
+202 "rotar"
+203 "pri gorjancu"
+204 "na gmajnici"
+205 "dolgi most rotar"
+206 "tivolska"
+207 "kolodvor (ap ljubljana)*"
+208 "vodice"
+209 "vodice os"
+210 "bokuvica plevec"
+211 "bukovica anzel"
+212 "utik"
+213 "selo pri vodicah"
+214 "vesca"
+215 "polje obracalisce"
+216 "letaliska obr."
+217 "letaliska"
+218 "rog"
+219 "gzl"
+220 "leskoskova"
+221 "yulon"
+222 "bratislavska"
+223 "nove jarse"
+224 "nove jarse - sm."
+225 "pokopaliska"
+226 "zale"
+227 "savske stolp."
+228 "prekmurska"
+229 "kozolec"
+230 "na jami"
+231 "bolnica p. drz."
+232 "zgornja siska"
+233 "trznica koseze"
+234 "cebelarska"
+235 "plesiceva"
+236 "andreja bitenca"
+237 "przan"
+238 "kora bar"
+239 "zalog"
+240 "saturnus"
+241 "zeleni gaj"
+242 "zadruzni dom"
+243 "silos"
+244 "petrol"
+245 "studenec"
+246 "fuzine p+r"
+247 "rusjanov trg"
+248 "preglov trg"
+249 "brodarjev trg"
+250 "pot na fuzine"
+251 "gasilska brig."
+252 "kard. ploscad"
+253 "puhova"
+254 "maroltova"
+255 "n. stozice p+r"
+256 "chengdujska"
+257 "bericevo"
+258 "reaktor"
+259 "sentjakob"
+260 "belinka"
+261 "nadgorica"
+262 "jeza"
+263 "zasavska"
+264 "os maksa p."
+265 "pot v hrastovec"
+266 "pot v smrecje"
+267 "polanskova"
+268 "kolodvor crn."
+269 "sp.gameljne 1"
+270 "sp.gameljne 2"
+271 "sp.gameljne 3"
+272 "gd gameljne"
+273 "primoziceva"
+274 "mestni log"
+275 "vizmarje"
+276 "tbilisijska"
+277 "koprska"
+278 "krimska"
+279 "trata"
+280 "gerbiceva"
+281 "dravlje"
+282 "jadranska"
+283 "kompas"
+284 "avtomontaza"
+285 " drama"
+286 " askarceva"
+287 "remiza"
+288 "dravlje gerbiceva"
+289 "mali dunaj"
+290 "dolg most p + r"
+291 "zgornji log"
+292 "cesta v gorice"
+293 "dolgi most p + r"
+294 "medvode "
+295 "novo naselje"
+296 "medvode na klancu"
+297 "zbiljski gaj"
+298 "zbilje k."
+299 "zbilje jezero"
+300 "zbilje barka"
+301 "smlednik sola"
+302 "valburga"
+303 "hrase zahod"
+304 "hrase center"
+305 "hrase vzhod"
+306 "zapoge"
+307 "dobrusa lipa"
+308 "svetje"
+309 "medvode"
+310 "kozarje g.d."
+311 "kozarje gmajna"
+312 "razori rogovilc"
+313 "sujica"
+314 "gabrje pri dobrovi"
+315 "gabrje brvicar"
+316 "hrusevo"
+317 "zirovnik"
+318 "hrastenice"
+319 "log pri p.g."
+320 "belica"
+321 "dvor pr p.g."
+322 "dvor pri p.g."
+323 "d. vas pri p.g."
+324 "podreber"
+325 "st. vas pri p.g."
+326 "polhov gradec"
+327 "kolezija"
+328 "železna"
+329 "bežigrad"
+330 "razstavišče"
+331 "ajdovščina"
+332 "tobačna"
+333 "stan in dom"
+334 "vič"
+335 "dolgi most"
+336 "kozarje"
+337 "radna"
+338 "šolska"
+339 "japelj"
+340 "japel"
+341 "erbežnik"
+342 "mostiček"
+343 "notranje gorice"
+344 "pri poku"
+345 "aškerčeva"
+346 "pošta"
+347 "polje obracalise"
+348 "vojsko"
+349 "selo mali dunaj"
+350 "selo"
+351 "sinkov turn"
+352 "bukovica"
+353 "os vodice"
+354 "repnje kapelica"
+355 "skarucna"
+356 "ljubljana"
+357 "btc-emporium"
+358 "btc-merkur"
+359 "btc-kolosej"
+360 "btc-trznica"
+361 "btc-uprava"
+362 "orlova"
+363 "izanska"
+364 "galjevica"
+365 "goluhova"
+366 "mihov stradon"
+367 "jurckova"
+368 "bobrova"
+369 "ns rudnik"
+370 "btc-atlantis"
+371 "savlje"
+372 "kalisnikov trg"
+373 "cerinova"
+374 "7. septembra"
+375 "gorjanceva"
+376 "pohorskega bataljona"
+377 "brinje"
+378 "vodovodna"
+379 "podmilscakova"
+380 "parmova"
+381 "hranilniska"
+382 "subiceva"
+383 "cankarjev dom"
+384 "pod roznikom"
+385 "studentsko naselje"
+386 "rozna dolina"
+387 "cesta xv"
+388 "jamnikarjeva"
+389 "visko polje"
+390 "podmornica"
+391 "preval"
+392 "brdo"
+393 "bokalce"
+394 "stanezice"
+395 "dvor"
+396 "oval"
+397 "martinova"
+398 "brod"
+399 "kajakaska"
+400 "vikrce"
+401 "gostilna kovac"
+402 "zavrh"
+403 "sp. pirnice"
+404 "zg. pirnice"
+405 "zg. pirnice mihovec"
+406 "verje"
+407 "medvode - vodice"
+408 "nove stozice"
+409 "fuzine"
+410 "cesta an vevce"
+411 "litostroj"
+412 "kovinarska"
+413 "kolizej"
+414 "akademija"
+415 "peruzzijeva"
+416 "gornji rudnik"
+*edges 566
+1 2
+2 3
+3 4
+2 4
+4 5
+5 6
+4 6
+6 7
+7 8
+8 9
+9 10
+10 11
+11 12
+12 13
+13 14
+14 15
+15 16
+16 17
+17 18
+18 19
+19 20
+20 21
+21 22
+22 23
+23 24
+24 25
+25 26
+26 27
+27 28
+28 29
+29 30
+30 31
+31 32
+32 33
+13 34
+10 34
+35 36
+36 37
+37 38
+38 39
+39 40
+40 41
+41 42
+42 43
+43 44
+44 45
+8 45
+10 46
+46 47
+46 48
+47 48
+48 49
+47 49
+49 50
+50 51
+50 52
+51 52
+52 53
+53 54
+52 54
+54 55
+54 56
+55 56
+56 57
+58 59
+58 60
+9 60
+58 61
+60 61
+61 62
+9 62
+63 64
+63 65
+65 66
+65 67
+67 68
+67 69
+69 70
+69 71
+71 72
+72 73
+71 73
+69 73
+73 74
+73 75
+75 76
+76 77
+75 77
+62 78
+58 78
+10 78
+79 80
+79 82
+81 82
+60 83
+81 83
+83 84
+81 84
+60 85
+83 85
+9 86
+10 87
+60 87
+11 88
+9 88
+12 89
+10 89
+13 90
+34 90
+14 91
+13 91
+91 92
+13 92
+91 93
+91 94
+92 94
+93 94
+93 95
+95 96
+93 96
+93 97
+60 98
+86 98
+80 99
+46 100
+63 100
+48 100
+9 100
+48 101
+49 101
+15 102
+14 102
+101 102
+15 103
+102 103
+103 104
+104 105
+105 106
+106 107
+107 108
+108 109
+109 110
+110 111
+111 112
+112 113
+113 114
+114 115
+115 116
+116 117
+117 118
+118 119
+119 120
+120 121
+121 122
+122 123
+123 124
+124 125
+125 126
+126 127
+127 128
+128 129
+129 130
+130 131
+122 132
+123 132
+131 132
+121 133
+133 134
+119 134
+111 135
+113 135
+46 136
+48 136
+11 136
+10 136
+100 136
+49 136
+34 136
+46 137
+136 137
+63 137
+78 137
+9 137
+138 139
+139 140
+140 141
+141 142
+140 142
+142 143
+143 144
+144 145
+145 146
+50 146
+146 147
+49 147
+51 147
+48 148
+147 148
+50 148
+51 148
+136 149
+47 149
+148 149
+50 149
+12 150
+34 150
+150 151
+93 151
+97 152
+152 153
+94 154
+153 154
+92 155
+147 156
+145 156
+157 158
+157 159
+158 160
+160 161
+161 162
+162 163
+163 164
+51 164
+164 165
+50 165
+51 165
+165 166
+47 166
+50 166
+166 167
+49 167
+167 168
+47 168
+161 168
+168 169
+46 170
+169 170
+170 171
+171 172
+172 173
+146 174
+173 174
+38 175
+175 176
+176 177
+177 178
+178 179
+179 180
+92 181
+154 182
+182 183
+183 184
+91 185
+184 185
+95 185
+93 185
+65 186
+185 186
+48 187
+49 187
+187 188
+188 189
+189 190
+190 191
+189 191
+18 191
+191 192
+46 193
+48 193
+168 193
+149 193
+47 193
+187 193
+183 194
+154 194
+181 195
+196 197
+197 198
+198 199
+199 200
+200 201
+201 202
+202 203
+203 204
+204 205
+56 205
+136 206
+10 206
+50 206
+10 207
+208 209
+209 210
+210 211
+211 212
+212 213
+213 214
+214 215
+216 217
+217 218
+218 219
+219 220
+220 221
+221 222
+76 223
+222 223
+76 224
+223 224
+222 224
+73 225
+225 226
+226 227
+227 228
+60 228
+46 229
+136 229
+11 229
+9 229
+148 230
+230 231
+231 232
+232 233
+233 234
+234 235
+235 236
+236 237
+136 238
+9 238
+34 238
+239 240
+239 241
+240 241
+241 242
+242 243
+61 244
+243 244
+62 245
+245 246
+246 247
+247 248
+182 249
+248 249
+182 250
+249 250
+60 251
+98 251
+251 252
+81 253
+252 253
+253 254
+254 255
+246 256
+245 256
+257 258
+258 259
+259 260
+260 261
+261 262
+262 263
+263 264
+264 265
+265 266
+266 267
+36 267
+38 268
+36 268
+39 269
+269 270
+270 271
+271 272
+157 272
+268 273
+267 273
+158 274
+167 275
+48 275
+274 275
+168 276
+160 276
+161 277
+170 277
+162 278
+136 279
+278 279
+274 279
+163 280
+146 280
+149 281
+280 281
+276 281
+147 282
+163 282
+164 282
+148 283
+282 283
+277 283
+51 283
+147 284
+278 284
+50 284
+51 284
+46 285
+148 285
+275 285
+136 286
+167 286
+147 286
+47 287
+282 287
+146 287
+149 288
+282 288
+276 288
+276 289
+275 290
+168 291
+170 292
+275 293
+294 295
+295 296
+296 297
+297 298
+298 299
+299 300
+300 301
+301 302
+302 303
+303 304
+304 305
+208 306
+305 306
+208 307
+306 307
+297 308
+295 308
+295 309
+205 310
+310 311
+198 312
+311 312
+197 313
+313 314
+314 315
+315 316
+316 317
+317 318
+318 319
+319 320
+320 321
+320 322
+322 323
+323 324
+324 325
+325 326
+188 327
+187 327
+78 328
+328 329
+329 330
+10 330
+47 331
+10 331
+47 332
+51 332
+53 333
+51 333
+53 334
+55 334
+55 335
+205 335
+204 336
+205 336
+204 337
+337 338
+338 339
+338 340
+339 341
+340 341
+341 342
+342 343
+338 344
+204 344
+332 345
+345 346
+331 346
+347 348
+348 349
+349 350
+212 351
+350 351
+212 352
+352 353
+208 353
+306 353
+347 354
+306 354
+347 355
+161 355
+168 356
+221 357
+357 358
+358 359
+359 360
+75 361
+77 361
+360 361
+15 362
+362 363
+363 364
+364 365
+365 366
+366 367
+367 368
+368 369
+359 370
+358 370
+371 372
+372 373
+373 374
+374 375
+375 376
+376 377
+377 378
+378 379
+379 380
+380 381
+9 381
+47 382
+382 383
+383 384
+384 385
+385 386
+386 387
+387 388
+388 389
+389 390
+390 391
+391 392
+392 393
+394 395
+275 396
+395 396
+165 397
+163 398
+397 398
+163 399
+399 400
+400 401
+401 402
+402 403
+403 404
+404 405
+405 406
+406 407
+309 407
+253 408
+247 409
+256 409
+62 410
+174 412
+411 412
+46 413
+149 413
+104 414
+414 415
+105 416
+415 416

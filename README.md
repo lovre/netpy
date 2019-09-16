@@ -39,6 +39,16 @@ The workshop is based on the Masters level course [**Introduction to Network Ana
 
 + **Hands-on**: Abstraction, centrality, clusters, mining and visualization (~ min)
 
+###### Networks data
+
+All networks are available in Pajek, edge list in LNA formats.
+
++ [**Simple toy example networks**](http://lovro.lpt.fri.uni-lj.si/netpy/toy.net) (5 nodes)
++ [**Zachary's karate club network**](http://lovro.lpt.fri.uni-lj.si/netpy/karate.net) (34 nodes)
++ [**Davis's southern women network**](http://lovro.lpt.fri.uni-lj.si/netpy/women.net) (32 nodes)
++ [**LPP public bus transport network**](http://lovro.lpt.fri.uni-lj.si/netpy/lpp.net) (416 nodes)
++ [**IMDb actors collaboration network**](http://lovro.lpt.fri.uni-lj.si/netpy/imdb.net) (17,577 nodes)
+
 ## Let's start with Guimera's four knights challenge
 
 ###### Tentative duration
@@ -142,9 +152,9 @@ To be **revealed in class** =)
 
 ###### Hands-on analysis
 
-+ [**Hands-on analysis**](http://lovro.lpt.fri.uni-lj.si/netpy/imdb.pdf) of IMDb actors collaboration network
++ [**Node importance**](http://lovro.lpt.fri.uni-lj.si/netpy/imdb.pdf) of IMDb actors collaboration network
 + [**IMDb actors collaboration network**](http://lovro.lpt.fri.uni-lj.si/netpy/imdb.net) in Pajek format etc.
-+ [**Python script**](http://lovro.lpt.fri.uni-lj.si/netpy/imdb-starter.py) for IMDb actors collaboration network
++ [**Starter script**](http://lovro.lpt.fri.uni-lj.si/netpy/imdb-starter.py) for IMDb actors collaboration network
 
 ###### Book chapters
 
