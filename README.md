@@ -46,6 +46,7 @@ All networks are available in Pajek, edge list in LNA formats.
 + [**Simple toy example networks**](http://lovro.lpt.fri.uni-lj.si/netpy/toy.net) (5 nodes)
 + [**Zachary's karate club network**](http://lovro.lpt.fri.uni-lj.si/netpy/karate.net) (34 nodes)
 + [**Davis's southern women network**](http://lovro.lpt.fri.uni-lj.si/netpy/women.net) (32 nodes)
++ [**Game of Thrones kills network**](http://lovro.lpt.fri.uni-lj.si/netpy/got.net) (284 nodes)
 + [**LPP public bus transport network**](http://lovro.lpt.fri.uni-lj.si/netpy/lpp.net) (416 nodes)
 + [**IMDb actors collaboration network**](http://lovro.lpt.fri.uni-lj.si/netpy/imdb.net) (17,577 nodes)
 

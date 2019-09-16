@@ -43,10 +43,11 @@ def info(G):
   print("{0:>15s} | {1:.6f}".format('Clustering', nx.average_clustering(nx.Graph(G))))
   print("{0:>15s} | {1:.1f} sec\n".format('Timing', time() - tic))
 
-G = read('toy')
+# G = read('toy')
 # G = read('karate')
 # G = read('women')
+# G = read('got')
 # G = read('lpp')
-# G = read('imdb')
+G = read('imdb')
 
 info(G)

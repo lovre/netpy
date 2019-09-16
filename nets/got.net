@@ -1,0 +1,513 @@
+*vertices 284
+1 "Waymar Royce"
+2 "Gared"
+3 "Will"
+4 "Ned Stark"
+5 "Lord Jon Arryn"
+6 "Catspaw assassin"
+7 "Summer"
+8 "Mycah"
+9 "Sandor Clegane"
+10 "Lady"
+11 "Ser Hugh of the Vale"
+12 "Kurleket"
+13 "Hill Tribesmen"
+14 "Ser Willis Wode"
+15 "Wyl"
+16 "Lannister Soldiers"
+17 "Heward"
+18 "Jory Cassel"
+19 "Jamie Lannister"
+20 "Wallen"
+21 "Robb Stark"
+22 "Stiv"
+23 "Theon Greyjoy"
+24 "Ser Vardis Egen"
+25 "Bronn"
+26 "Prince Viserys Targaryen"
+27 "Khal Drogo"
+28 "King Robert Baratheon"
+29 "Lancel Lannister"
+30 "Varly"
+31 "Goldcloaks"
+32 "Vayon Poole"
+33 "Syrio Forel"
+34 "Meryn Trant"
+35 "Stableboy"
+36 "Arya Stark"
+37 "Jafer Flowers"
+38 "White Walkers"
+39 "Othor"
+40 "Mago"
+41 "Qotho"
+42 "Jorah Mormont"
+43 "Lord Eddard Ned Stark"
+44 "Ser Ilyn Payne"
+45 "Rhaego"
+46 "Mirri Maz Duur"
+47 "Daenerys Targaryen"
+48 "Master Cressen"
+49 "Barra"
+50 "Janos Slynt"
+51 "Rakharo"
+52 "Yoren"
+53 "Amory Loch"
+54 "Lommy Greenhands"
+55 "Polliver"
+56 "Rennick"
+57 "Grey Wind"
+58 "Lannister Guard"
+59 "Tortured Prisoner"
+60 "Stafford Lannister"
+61 "Stark Soldiers"
+62 "King Renly Baratheon"
+63 "Melisandre"
+64 "Emmon Cuy"
+65 "Brienne"
+66 "Robar Royce"
+67 "The Tickler"
+68 "Jaqen"
+69 "Ser Rodrick Cassel"
+70 "The High Septon"
+71 "Ser Amory Lorch"
+72 "Drennan"
+73 "Osha"
+74 "Irri"
+75 "Doreah"
+76 "Ser Alton Lannister"
+77 "The Spice King"
+78 "Pyat Pree"
+79 "The Silk King"
+80 "The Copper King"
+81 "Winterfell Shepard"
+82 "Dagmer"
+83 "Billy"
+84 "Jack"
+85 "Borba"
+86 "Harker"
+87 "Stonesnake"
+88 "Matthos Seaworth"
+89 "Ser Mandon Moore"
+90 "Podrick Payne"
+91 "Tom"
+92 "Master Luwin"
+93 "Lorren"
+94 "Ramsay Bolton"
+95 "Drogon"
+96 "Qhorin Halfhand"
+97 "Jon Snow"
+98 "Xaro Xhoan Daxos"
+99 "Ser Jaremy Mallister"
+100 "Gregor Clegane"
+101 "Hoster Tully"
+102 "Master Torturer"
+103 "Bannen"
+104 "Craster"
+105 "Karl Tanner"
+106 "Lord Commander Jeor Mormont"
+107 "Rast"
+108 "Kraznys mo Nakloz"
+109 "Greizhen mo Ullhor"
+110 "Lord Beric Dondarrion"
+111 "Willem Lannister"
+112 "Rickard Karstark"
+113 "Martyn Lannister"
+114 "Lord Rickard Karstark"
+115 "Rob Stark"
+116 "Ros"
+117 "Joffrey Baratheon"
+118 "Mero"
+119 "Daario Naharis"
+120 "Prendahl na Ghezn"
+121 "White Walker"
+122 "Old Man"
+123 "Ygritte"
+124 "Orell"
+125 "Unborn Stark Child"
+126 "Queen Talisa Stark"
+127 "Lothar Frey"
+128 "Wendel Manderly"
+129 "Walder Frey"
+130 "King Robb Stark"
+131 "Roose Bolton"
+132 "Lady Joyeuse Erenford"
+133 "Catelyn Stark"
+134 "Lady Catelyn Stark"
+135 "Black Walder Rivers"
+136 "Several Frey Soldiers"
+137 "Lowell"
+138 "Tansy"
+139 "Ramsay"
+140 "Ser Axell Florent"
+141 "King Joffrey Baratheon"
+142 "Lady Olenna Tyrell"
+143 "Ser Dontos Hollard"
+144 "Petyr Baelish"
+145 "Guymon"
+146 "Olly's Mother"
+147 "Styr"
+148 "Oznak zo Pahl"
+149 "Great Masters"
+150 "Locke"
+151 "Bran Stark"
+152 "Ghost"
+153 "Dying Man"
+154 "Biter"
+155 "Rorge"
+156 "Lady Lysa Arryn"
+157 "Kegs"
+158 "Black Jack Bulwer"
+159 "Mully"
+160 "Mole's Town Whore"
+161 "Ralf Kenning"
+162 "Adrack Humble"
+163 "Bolton Soldiers"
+164 "Prince Oberyn Martell"
+165 "Pypar"
+166 "Thenn Warg"
+167 "Samwell Tarly"
+168 "Dongo"
+169 "Smitty"
+170 "Olly"
+171 "Gren"
+172 "Mag Mar Tun Doh Weg"
+173 "Cooper"
+174 "Donnel Hill"
+175 "Zalla"
+176 "Jojen Reed"
+177 "Meera Reed"
+178 "Shae"
+179 "Tyrion Lannister"
+180 "Lord Tywin Lannister"
+181 "White Rat"
+182 "King Mance Rayder"
+183 "Mossador"
+184 "Lord Medgar Cerwyn"
+185 "Lady Cerwyn"
+186 "Lord Janos Slynt"
+187 "Merchant Captain"
+188 "Obara Sand"
+189 "Ser Barristan Selmy"
+190 "Master Eaton"
+191 "Viserion"
+192 "Ghita"
+193 "Master Aemon"
+194 "Lord of Bones"
+195 "Tormund"
+196 "Loboda"
+197 "White Walker Lieutenant"
+198 "Karsi"
+199 "Princess Shireen Baratheon"
+200 "Water Dancer"
+201 "Meereenese champion"
+202 "Hizdahr zo Loraq"
+203 "Queen Selyse Baratheon"
+204 "Gordy"
+205 "Stannis Baratheon"
+206 "Simpson"
+207 "King Stannis Baratheon"
+208 "Myranda"
+209 "Ser Meryn Trant"
+210 "Princess Myrcella Baratheon"
+211 "Ellaria Sand"
+212 "Lord Commander Jon Snow"
+213 "Alliser Thorne"
+214 "Bolton Officer"
+215 "Areo Hotah"
+216 "Tyene Sand"
+217 "Prince Doran Martell"
+218 "Maester Caleotte"
+219 "Prince Trystane Martell"
+220 "Lord Roose Bolton"
+221 "Lady Walda Bolton"
+222 "Bolton Son"
+223 "King Balon Greyjoy"
+224 "Ser Gerold Hightower "
+225 "Four Stark Bannermen "
+226 "Arthur Dayne"
+227 "Ser Arthur Dayne "
+228 "Lord Greatjon Umber"
+229 "Shaggydog"
+230 "Jon Umber"
+231 "First Steward Bowen Marsh"
+232 "First Builder Othell Yarwyck"
+233 "Ser Alliser Thorne"
+234 "Iggo"
+235 "Akho"
+236 "Khal Rhalko"
+237 "Khal Brozho"
+238 "Khal Qorro"
+239 "Khal Forzho"
+240 "Khal Moro"
+241 "Three Eyed Raven"
+242 "Leaf"
+243 "Hodor"
+244 "King Aerys Targaryen "
+245 "Brother Ray"
+246 "Lem"
+247 "Steve"
+248 "Riddell"
+249 "Gatins"
+250 "Morgan"
+251 "Ser Brynden Tully"
+252 "Lem Lemoncloak"
+253 "Lady Crane"
+254 "The Waif"
+255 "Belicho Paenymion"
+256 "Grey Worm"
+257 "Razdal mo Eraz"
+258 "Prince Rickon Stark"
+259 "Lord Jon Umber"
+260 "Wun Weg Wun Dar Wun"
+261 "Lord Ramsay Bolton"
+262 "Sansa Stark"
+263 "Grand Maester Pycelle"
+264 "Qyburn"
+265 "Ser Lancel Lannister"
+266 "Cersei"
+267 "The High Sparrow"
+268 "Ser Loras Tyrell"
+269 "Queen Margaery Tyrell"
+270 "Lord Mace Tyrell"
+271 "Ser Kevan Lannister"
+272 "King Tommen Baratheon"
+273 "Ser Black Walder Rivers"
+274 "Lord Walder Frey"
+275 "Lady Lyanna Stark "
+276 "Sally's Father"
+277 "Euron Greyjoy"
+278 "Nymeria Sand"
+279 "Queen Cersei Lannister"
+280 "Olenna Tyrell"
+281 "Dickon Tarly"
+282 "Polar Bear Wight"
+283 "Benjen Stark"
+284 "Wights"
+*edges 227
+1 1
+2 2
+3 4
+5 5
+6 7
+7 7
+8 9
+4 10
+11 11
+12 13
+13 14
+15 16
+16 17
+18 19
+20 21
+22 23
+24 25
+26 27
+28 29
+30 31
+16 32
+33 34
+35 36
+37 38
+38 39
+27 40
+41 42
+43 44
+45 46
+27 47
+46 47
+48 48
+49 50
+51 51
+52 53
+36 55
+54 55
+56 57
+57 58
+59 59
+60 61
+62 63
+64 65
+65 66
+67 68
+23 69
+70 70
+71 71
+72 73
+42 75
+74 75
+19 76
+77 78
+78 79
+78 80
+81 82
+82 83
+82 84
+85 85
+86 86
+87 87
+25 88
+89 90
+65 91
+73 92
+73 94
+82 94
+93 94
+78 95
+96 97
+42 98
+99 100
+101 101
+94 102
+103 103
+97 105
+104 105
+106 107
+95 108
+109 109
+9 110
+111 112
+112 113
+114 115
+116 117
+118 119
+119 120
+121 121
+122 123
+97 124
+125 125
+36 127
+126 127
+57 129
+128 129
+130 131
+132 133
+134 135
+36 136
+9 137
+138 139
+63 140
+141 142
+143 144
+123 145
+97 147
+146 147
+119 148
+149 149
+150 151
+107 152
+9 153
+9 154
+36 155
+144 156
+157 157
+158 158
+159 159
+123 160
+161 162
+162 163
+100 164
+123 165
+166 167
+168 168
+169 169
+97 170
+123 170
+171 172
+171 172
+172 173
+172 174
+95 175
+121 177
+176 177
+178 179
+180 180
+181 181
+97 182
+119 183
+94 184
+94 185
+97 186
+187 188
+189 189
+190 191
+36 192
+193 193
+194 195
+196 196
+97 197
+197 197
+198 198
+63 199
+200 200
+42 201
+202 202
+203 203
+204 205
+205 206
+65 207
+23 208
+36 209
+210 211
+212 213
+65 214
+215 216
+211 217
+216 218
+188 219
+220 220
+139 221
+139 222
+223 223
+4 224
+225 226
+4 227
+228 228
+229 230
+97 231
+97 232
+97 233
+119 234
+119 235
+47 236
+47 237
+47 238
+47 239
+47 240
+241 241
+242 242
+243 243
+19 244
+245 246
+9 247
+9 248
+9 249
+9 250
+251 251
+9 252
+253 253
+36 254
+255 256
+256 257
+94 258
+195 259
+94 260
+261 262
+263 264
+265 266
+266 267
+266 268
+266 269
+266 270
+266 271
+272 272
+36 273
+36 274
+275 275
+276 276
+188 277
+277 278
+216 279
+19 280
+95 281
+42 282
+283 284
