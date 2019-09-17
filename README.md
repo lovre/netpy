@@ -26,7 +26,7 @@ The workshop is based on the Masters level course [**Introduction to Network Ana
 
 ###### Recommended prerequisites
 
-**It is recommended that attendees bring a laptop with a working installation of [Python](http://www.python.org), and the [NetworkX](http://networkx.github.io) and [CDlib](http://cdlib.readthedocs.io) packages. Alternatively, you can work with any other network analysis package such as [igraph](http://igraph.org), [graph-tool](http://graph-tool.skewed.de) or [SNAP.py](http://snap.stanford.edu/snappy/).** Finally, for the purposes of visualization of smaller networks, it is recommended to have a working installation of some network analysis software such as [Gephi](http://gephi.org) or [visone](http://visone.info).
+**It is recommended that attendees bring a laptop with a working installation of [Python](http://www.python.org), [NetworkX](http://networkx.github.io) and [CDlib](http://cdlib.readthedocs.io) packages, and necessary dependencies. Alternatively, you can work with any other network analysis package such as [igraph](http://igraph.org), [graph-tool](http://graph-tool.skewed.de) or [SNAP.py](http://snap.stanford.edu/snappy/).** Finally, for the purposes of visualization of smaller networks, it is recommended to have a working installation of some network analysis software such as [Gephi](http://gephi.org) or [visone](http://visone.info).
 
 ###### Tentative syllabus
 
@@ -220,6 +220,8 @@ Network **community**, **core-periphery** and other **mesoscopic** structures. G
 + Hric, D., Darst, R.K. & Fortunato, S., [Community detection in networks: Structural communities versus ground truth](https://arxiv.org/abs/1406.0146), _Phys. Rev. E_ **90**(6), 062805 (2014).
 + Fortunato, S. & Hric, D., [Community detection in networks: A user guide](https://arxiv.org/abs/1608.00163), _Phys. Rep._ **659**, 1-44 (2016).
 + Schaub, M.T., Delvenne, J.-C. et al., [The many facets of community detection in complex networks](https://arxiv.org/abs/1611.07769), _Appl. Netw. Sci._ **2**, 4 (2017).
++ Rossetti, G., Milli, L., & Cazabet, R., [CDlib: A python library to extract, compare and evaluate communities from complex networks](https://link.springer.com/article/10.1007/s41109-019-0165-9), _Appl. Netw. Sci._ **4**(1), 1–26 (2019).
+
 
 ###### Selected papers
 

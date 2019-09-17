@@ -1,10 +1,34 @@
-          Graph | 'wikileaks'
+          Graph | 'karate'
            Type | '---'
-          Nodes | 52,416 (0)
-          Edges | 78,506 (0)
-        Degrees | 3.0 (1, 384)
+          Nodes | 34 (0)
+          Edges | 78 (0)
+        Degrees | 4.6 (1, 17)
      Components | 100.0% (1)
-      Distances | 22.954 (70)
-     Clustering | 0.186419
-         Timing | 43.7 sec
+      Distances | 2.408 (5)
+     Clustering | 0.570638
+         Timing | 0.0 sec
+
+          Graph | 'karate'
+      Algorithm | 'girvan newman'
+       Clusters | 2 (17.0)
+        Degrees | 4.0 (86.6%)
+     Modularity | 0.379816
+     Robustness | 1.000000
+         Timing | 0.2 sec
+
+          Graph | 'karate'
+      Algorithm | 'label propagation'
+       Clusters | 3 (11.3)
+        Degrees | 3.1 (67.8%)
+     Modularity | 0.362814
+     Robustness | 1.000000
+         Timing | 0.0 sec
+
+          Graph | 'karate'
+      Algorithm | 'louvain'
+       Clusters | 4 (8.5)
+        Degrees | 3.1 (66.7%)
+     Modularity | 0.471205
+     Robustness | 1.000000
+         Timing | 0.0 sec
 

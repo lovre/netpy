@@ -1,6 +1,9 @@
 import os
 from time import *
 import networkx as nx
+from cdlib import viz
+from cdlib import algorithms
+from matplotlib import pyplot as plt
 from random import sample
 
 def read(file, path = '../nets'):
@@ -43,8 +46,23 @@ def info(G):
   print("{0:>15s} | {1:.6f}".format('Clustering', nx.average_clustering(nx.Graph(G))))
   print("{0:>15s} | {1:.1f} sec\n".format('Timing', time() - tic))
 
+def clusters(G, alg):
+  """
+  Find clusters of undirected multigraph G and print out standard statistics.
+  """
+  tic = time()
+  print("{0:>15s} | '{1:s}'".format('Graph', G.name.replace('_', '-')))
+  cs = alg(G)
+  print("{0:>15s} | '{1:s}'".format('Algorithm', cs.method_name.lower()))
+  print("{0:>15s} | {1:,d} ({2:.1f})".format('Clusters', len(cs.communities), G.number_of_nodes() / len(cs.communities)))
+  print("{0:>15s} | {1:.1f} ({2:.1f}%)".format('Degrees', cs.average_internal_degree().score, 100.0 * cs.average_internal_degree().score * 0.5 * G.number_of_nodes() / G.number_of_edges()))
+  print("{0:>15s} | {1:.6f}".format('Modularity', cs.erdos_renyi_modularity().score))
+  print("{0:>15s} | {1:.6f}".format('Robustness', cs.normalized_mutual_information(alg(G)).score))
+  print("{0:>15s} | {1:.1f} sec\n".format('Timing', time() - tic))
+  return cs
+
 # G = read('toy')
-# G = read('karate')
+G = read('karate')
 # G = read('women')
 # G = read('dolphins')
 # G = read('got-appearance')
@@ -53,6 +71,15 @@ def info(G):
 # G = read('transport')
 # G = read('java')
 # G = read('imdb')
-G = read('wikileaks')
+# G = read('wikileaks')
 
 info(G)
+
+clusters(G, lambda G: algorithms.girvan_newman(G, level = 1))
+clusters(G, lambda G: algorithms.label_propagation(G))
+cs = clusters(G, lambda G: algorithms.louvain(G))
+# clusters(G, lambda G: algorithms.leiden(G))
+# clusters(G, lambda G: algorithms.sbm_dl(G))
+
+viz.plot_network_clusters(G, cs, nx.spring_layout(G))
+plt.show()
