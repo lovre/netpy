@@ -139,11 +139,25 @@ Classical **graph theory** and modern **network analysis**. **Random graphs**, *
 
 ###### Selected must-reads
 
-<span style="font-size:large;font-weight:bold;color:#B53737">TODO</span>
++ Newman, M.E.J., Watts, D.J. & Strogatz, S.H., [Random graph models of social networks](https://www.pnas.org/content/pnas/99/suppl_1/2566.full.pdf?sid=2662d769-c2c0-48a5-afe5-6da549153812), _P. Natl. Acad. Sci. USA_ **99**, 2566-2572 (2002).
++ Ugander, J., Karrer, B. et al., [The anatomy of the Facebook social graph](https://arxiv.org/abs/1111.4503), e-print _arXiv:1111.4503v1_, pp. 17 (2011).
++ Backstrom, L., Boldi, P. et al., [Four degrees of separation](https://arxiv.org/abs/1111.4570), In: _Proceedings of WebSci '12_ (Evanston, IL, USA, 2012), pp. 45-54.
 
 ###### Selected papers
 
-<span style="font-size:large;font-weight:bold;color:#B53737">TODO</span>
++ Erdős, P. & Rényi, A., [On random graphs I](http://ftp.math-inst.hu/~p_erdos/1959-11.pdf), _Publ. Math. Debrecen_ **6**, 290-297 (1959).
++ Milgram, S., The small world problem, Psychol. Today 1(1), 60-67 (1967). 
+Granovetter, M.S., The strength of weak ties, _Am. J. Sociol._ **78**(6), 1360-1380 (1973).
++ Watts, D.J. & Strogatz, S.H., Collective dynamics of 'small-world' networks, _Nature_ **393**(6684), 440-442 (1998).
++ Barabási, A.-L. & Albert, R., Emergence of scaling in random networks, _Science_ **286**(5439), 509-512 (1999).
++ Faloutsos, M., Faloutsos, P. & Faloutsos, C., On power-law relationships of the Internet topology, _Comput. Commun. Rev._ **29**(4), 251-262 (1999).
++ Albert, R., Jeong, H. & Barabási, A.-L., Error and attack tolerance of complex networks, _Nature_ **406**(6794), 378-382 (2000).
++ Dorogovtsev, S.N. & Mendes, J.F.F., [Evolution of networks](https://arxiv.org/abs/cond-mat/0106144), _Adv. Phys._ **51**(4), 1079-1187 (2002).
++ Clauset, A., Shalizi, C.R. & Newman, M.E.J., [Power-law distributions in empirical data](https://arxiv.org/abs/0706.1062), _SIAM Rev._ **51**, 661-703 (2009).
++ De Domenico, M. & Arenas, A., [Modeling structure and resilience of the dark network](https://arxiv.org/abs/1612.01284), _Phys. Rev. E_ **95**(2), 022313 (2017).
++ Broido, A.D. & Clauset, A., [Scale-free networks are rare](https://www.nature.com/articles/s41467-019-08746-5), _Nat. Commun._ **10**(1), 1017 (2019).
++ Barabási, A.-L., [Love is all you need](https://uploads-ssl.webflow.com/58bcae2c9d6c401e73a26fed/5aa01d3e24eebb000199a0a2_loveisallyouneed.pdf), reply to e-print _arXiv:1801.03400v1_, pp. 6 (2018).
++ Holme, P., [Rare and everywhere](https://www.nature.com/articles/s41467-019-09038-8), _Nat. Commun._ **10**(1), 1016 (2019).
 
 ## 3. Measures of node importance and link analysis
 
