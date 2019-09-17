@@ -116,13 +116,16 @@ To be **revealed in class** =)
 
 ###### Brief description
 
-<span style="font-size:large;font-weight:bold;color:#B53737">TODO</span>
+Classical **graph theory** and modern **network analysis**. **Random graphs**, **scale-free** and **small-world** network **models**, and real network structure. **Network representations**, data formats and repositories. 
 
 ![smallworld](figs/smallworld.png)
 
 ###### Lecture slides
 
-<span style="font-size:large;font-weight:bold;color:#B53737">TODO</span>
++ [**Graph theory and modern network analysis**](http://lovro.lpt.fri.uni-lj.si/netpy/networkology.pdf)
++ [**Random graph models and network structure**](http://lovro.lpt.fri.uni-lj.si/netpy/randoms.pdf)
++ [**Scale-free and small-world network models**](http://lovro.lpt.fri.uni-lj.si/netpy/models.pdf)
++ [**Network representations, formats and data**](http://lovro.lpt.fri.uni-lj.si/netpy/represent.pdf)
 
 ###### Hands-on analysis
 
