@@ -22,7 +22,7 @@ Thursday, **19th September 2019 at 3:30 PM** (4 hours with breaks)
 ###### High-level description
 
 **The workshop is primarily aimed at Python programmers, either academics, professionals or students, that wish to learn the basics of modern network science and practical analyses of complex real networks, such as social, information and biological networks.** Familiarity with the basics of probability theory, statistics and linear algebra is strongly encouraged.
-The workshop is based on the Masters level course [**Introduction to Network Analysis**](http://lovro.lpt.fri.uni-lj.si/posters/frinets.pdf) offered at UL FRI.
+The workshop is based on the Masters level course [**Introduction to Network Analysis**](http://lovro.lpt.fri.uni-lj.si/posters/frinets.pdf) offered at University of Ljubljana, Faculty of Computer and Information Science.
 
 ###### Recommended prerequisites
 
@@ -161,8 +161,8 @@ To be **revealed in class** =)
 ###### Hands-on analysis
 
 + [**Node importance**](http://lovro.lpt.fri.uni-lj.si/netpy/position.pdf) in IMDb actors collaboration network
-+ [**IMDb actors collaboration network**](http://lovro.lpt.fri.uni-lj.si/netpy/imdb.net) in Pajek format etc.
 + [**Starter script**](http://lovro.lpt.fri.uni-lj.si/netpy/position-starter.py) for IMDb actors collaboration network
++ [**IMDb actors collaboration network**](http://lovro.lpt.fri.uni-lj.si/netpy/imdb.net) in Pajek format
 
 ###### Book chapters
 
@@ -206,7 +206,18 @@ Network **community**, **core-periphery** and other **mesoscopic** structures. G
 
 ###### Hands-on analysis
 
-<span style="font-size:large;font-weight:bold;color:#B53737">TODO</span>
++ [**Community and $k$-cores detection**](http://lovro.lpt.fri.uni-lj.si/netpy/clusters.pdf) of real networks
++ [**Starter script**](http://lovro.lpt.fri.uni-lj.si/netpy/clusters-starter.py) for community and $k$-cores detection
++ [**Zachary's karate club network**](http://lovro.lpt.fri.uni-lj.si/netpy/karate.net) in Pajek format
++ [**Davis's southern women network**](http://lovro.lpt.fri.uni-lj.si/netpy/women.net) in Pajek format
++ [**Lusseau's bottlenose dolphins network**](http://lovro.lpt.fri.uni-lj.si/netpy/dolphins.net) in Pajek format
++ [**Game of Thrones character appearance network**](http://lovro.lpt.fri.uni-lj.si/netpy/got-appearance.net) in Pajek format
++ [**Human diseasome network by common symptoms**](http://lovro.lpt.fri.uni-lj.si/netpy/diseasome.net) in Pajek format
++ [**Conflicts and alliances between world nations**](http://lovro.lpt.fri.uni-lj.si/netpy/wars.net) in Pajek format
++ [**US airplane traffic transport network**](http://lovro.lpt.fri.uni-lj.si/netpy/transport.net) in Pajek format
++ [**Java software class dependency network**](http://lovro.lpt.fri.uni-lj.si/netpy/java.net) in Pajek format
++ [**IMDb actors collaboration network**](http://lovro.lpt.fri.uni-lj.si/netpy/imdb.net) in Pajek format
++ [**WikiLeaks cable reference network**](http://lovro.lpt.fri.uni-lj.si/netpy/wikileaks.net) in Pajek format
 
 ###### Book chapters
 
@@ -221,7 +232,6 @@ Network **community**, **core-periphery** and other **mesoscopic** structures. G
 + Fortunato, S. & Hric, D., [Community detection in networks: A user guide](https://arxiv.org/abs/1608.00163), _Phys. Rep._ **659**, 1-44 (2016).
 + Schaub, M.T., Delvenne, J.-C. et al., [The many facets of community detection in complex networks](https://arxiv.org/abs/1611.07769), _Appl. Netw. Sci._ **2**, 4 (2017).
 + Rossetti, G., Milli, L., & Cazabet, R., [CDlib: A python library to extract, compare and evaluate communities from complex networks](https://link.springer.com/article/10.1007/s41109-019-0165-9), _Appl. Netw. Sci._ **4**(1), 1–26 (2019).
-
 
 ###### Selected papers
 
