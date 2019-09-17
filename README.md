@@ -133,7 +133,9 @@ Classical **graph theory** and modern **network analysis**. **Random graphs**, *
 
 ###### Book chapters
 
-<span style="font-size:large;font-weight:bold;color:#B53737">TODO</span>
++ Ch. 2: [Graph theory](http://networksciencebook.com/chapter/2), Ch. 3.8-3.9: [Small worlds etc.](http://networksciencebook.com/chapter/3) & Ch. 4-5: [Scale-free property etc.](http://networksciencebook.com/chapter/4) in Barabási, A.-L., Network Science (Cambridge University Press, 2016).
++ Ch. 6: Mathematics of networks & Ch. 12-15: Random graphs etc. in Newman, M.E.J., [_Networks: An Introduction_](https://global.oup.com/academic/product/networks-9780198805090?cc=si&lang=en&) (Oxford University Press, 2010).
++ Ch. 2: [Graphs](https://www.cs.cornell.edu/home/kleinber/networks-book/networks-book-ch02.pdf), Ch. 18: [Power laws etc.](https://www.cs.cornell.edu/home/kleinber/networks-book/networks-book-ch18.pdf) & Ch. 20: [Small-world phenomenon](https://www.cs.cornell.edu/home/kleinber/networks-book/networks-book-ch20.pdf) in Easley, D. & Kleinberg, J., Networks, Crowds, and Markets (Cambridge University Press, 2010).
 
 ###### Selected must-reads
 
