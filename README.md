@@ -295,22 +295,24 @@ Network **community**, **core-periphery** and other **mesoscopic** structures. G
 
 ###### Brief description
 
-<span style="font-size:large;font-weight:bold;color:#B53737">TODO</span>
+Network-based node **clustering, classification and regression**. Force-directed node layout and **network visualization**. Selected application(s) of network analysis (e.g. **automobile insurance fraud**).
 
 ![collisions](figs/collisions.png)
 
 ###### Lecture slides
 
-<span style="font-size:large;font-weight:bold;color:#B53737">TODO</span>
++ [**Network-based node classification etc.**](http://lovro.lpt.fri.uni-lj.si/netpy/mining.pdf)
++ [**Node layout and network visualization**](http://lovro.lpt.fri.uni-lj.si/netpy/visuals.pdf)
++ [**Fraud detection in automobile insurance**](http://lovro.lpt.fri.uni-lj.si/netpy/fraud.pdf)
 
 ###### Hands-on analysis
 
-<span style="font-size:large;font-weight:bold;color:#B53737">TODO</span>
+<span style="font-size:large;font-weight:bold;color:#B53737">TODO?</span>
 
 ###### Selected must-reads
 
-<span style="font-size:large;font-weight:bold;color:#B53737">TODO</span>
+<span style="font-size:large;font-weight:bold;color:#B53737">TODO?</span>
 
 ###### Selected papers
 
-<span style="font-size:large;font-weight:bold;color:#B53737">TODO</span>
+<span style="font-size:large;font-weight:bold;color:#B53737">TODO!</span>
