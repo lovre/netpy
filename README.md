@@ -328,12 +328,14 @@ Left for **next time** =)
 + Figueiredo, D.R., Ribeiro, L.F.R. & Saverese, P.H.P., [struc2vec](https://arxiv.org/abs/1704.03165), In: _Proceedings of KDD ’17_ (Halifax, Canada, 2017), pp. 1–9.
 + Peel, L., [Graph-based semi-supervised learning for relational networks](https://arxiv.org/abs/1612.05001), In: _Proceedings of SDM ’17_ (Houston, TX, USA, 2017), pp. 1-11.
 
--
+<span> </span>
+
 + Eades, P., A heuristic for graph drawing, _Congressus Numerantium_ **42**, 146-160 (1984).
 + Kamada, T. & Kawai, S., An algorithm for drawing general undirected graphs, _Inform. Process. Lett._ **31**(1), 7-15 (1989).
 + Fruchterman, T.M.J. & Reingold, E.M., Graph drawing by force-directed placement, _Softw: Pract. Exper_. **21**(11), 1129-1164 (1991).
 + Kobourov, S.G., [Spring embedders and force directed graph drawing algorithms](https://arxiv.org/abs/1201.3011), e-print _arXiv:1201.3011v1_, pp. 23 (2012).
 + Gibson, H., Faith, J. & Vickers, P., A survey of two-dimensional graph layout techniques for information visualisation, _Infor. Visual._ **12**(3-4), 324-357 (2013).
 
--
+<span> </span>
+
 + Šubelj, L., Furlan, Š. & Bajec, M., [An expert system for detecting automobile insurance fraud using social network analysis](https://arxiv.org/abs/1104.3904), _Expert Syst. Appl._ **38**(1), 1039-1052 (2011).
