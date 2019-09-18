@@ -137,9 +137,19 @@ Classical **graph theory** and modern **network analysis**. **Random graphs**, *
 
 ###### Hands-on analysis
 
-+ [**Starter script**](http://lovro.lpt.fri.uni-lj.si/netpy/networks-starter.py) for network structure and graph models
-
-<span style="font-size:large;font-weight:bold;color:#B53737">TODO</span>
++ Large-scale [**network structure and random graphs**](http://lovro.lpt.fri.uni-lj.si/netpy/networks.pdf)
++ [**Starter script**](http://lovro.lpt.fri.uni-lj.si/netpy/networks-starter.py) for network structure and random graphs
++ [**Zachary's karate club network**](http://lovro.lpt.fri.uni-lj.si/netpy/karate.net) in Pajek format
++ [**Davis's southern women network**](http://lovro.lpt.fri.uni-lj.si/netpy/women.net) in Pajek format
++ [**Lusseau's bottlenose dolphins network**](http://lovro.lpt.fri.uni-lj.si/netpy/dolphins.net) in Pajek format
++ [**Ingredients network by common compounds**](http://lovro.lpt.fri.uni-lj.si/netpy/ingredients.net) in Pajek format
++ [**Map of Darknet from Tor network**](http://lovro.lpt.fri.uni-lj.si/netpy/darknet.net) in Pajek format
++ [**Human protein-protein interaction network**](http://lovro.lpt.fri.uni-lj.si/netpy/ppi.net) in Pajek format
++ [**Internet map of autonomous systems**](http://lovro.lpt.fri.uni-lj.si/netpy/internet.net) in Pajek format
++ [**Amazon product copurchase network**](http://lovro.lpt.fri.uni-lj.si/netpy/amazon.net) in Pajek format
++ [**Paper citation network of APS**](http://lovro.lpt.fri.uni-lj.si/netpy/aps.net) in Pajek format
++ [**Small part of Google web graph**](http://lovro.lpt.fri.uni-lj.si/netpy/google.net) in Pajek format
++ [**Road/highway network of Texas**](http://lovro.lpt.fri.uni-lj.si/netpy/texas.net) in Pajek format
 
 ###### Book chapters
 
