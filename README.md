@@ -54,8 +54,16 @@ All networks are available in Pajek, edge list in LNA formats.
 + [**Ljubljana public bus transport network**](http://lovro.lpt.fri.uni-lj.si/netpy/lpp.net) (416 nodes)
 + [**US airplane traffic transport network**](http://lovro.lpt.fri.uni-lj.si/netpy/transport.net) (1,323 nodes)
 + [**Java software class dependency network**](http://lovro.lpt.fri.uni-lj.si/netpy/java.net) (1,516 nodes)
++ [**Ingredients network by common compounds**](http://lovro.lpt.fri.uni-lj.si/netpy/ingredients.net) (1,525 nodes)
++ [**Map of Darknet from Tor network**](http://lovro.lpt.fri.uni-lj.si/netpy/darknet.net) (7,178 nodes)
 + [**IMDb actors collaboration network**](http://lovro.lpt.fri.uni-lj.si/netpy/imdb.net) (17,577 nodes)
++ [**Human protein-protein interaction network**](http://lovro.lpt.fri.uni-lj.si/netpy/ppi.net) (19,634 nodes)
 + [**WikiLeaks cable reference network**](http://lovro.lpt.fri.uni-lj.si/netpy/wikileaks.net) (52,416 nodes)
++ [**Internet map of autonomous systems**](http://lovro.lpt.fri.uni-lj.si/netpy/internet.net) (75,885 nodes)
++ [**Amazon product copurchase network**](http://lovro.lpt.fri.uni-lj.si/netpy/amazon.net) (262,111 nodes)
++ [**Paper citation network of APS**](http://lovro.lpt.fri.uni-lj.si/netpy/aps.net) (438,943 nodes)
++ [**Small part of Google web graph**](http://lovro.lpt.fri.uni-lj.si/netpy/google.net) (875,713 nodes)
++ [**Road/highway network of Texas**](http://lovro.lpt.fri.uni-lj.si/netpy/texas.net) (1,379,917 nodes)
 
 ## Let's start with Guimera's four knights challenge
 
