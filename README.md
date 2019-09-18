@@ -137,6 +137,8 @@ Classical **graph theory** and modern **network analysis**. **Random graphs**, *
 
 ###### Hands-on analysis
 
++ [**Starter script**](http://lovro.lpt.fri.uni-lj.si/netpy/networks-starter.py) for network structure and graph models
+
 <span style="font-size:large;font-weight:bold;color:#B53737">TODO</span>
 
 ###### Book chapters
