@@ -307,12 +307,33 @@ Network-based node **clustering, classification and regression**. Force-directed
 
 ###### Hands-on analysis
 
-<span style="font-size:large;font-weight:bold;color:#B53737">TODO?</span>
+Left for **next time** =)
 
 ###### Selected must-reads
 
-<span style="font-size:large;font-weight:bold;color:#B53737">TODO?</span>
++ Grover, A. & Leskovec, J., [node2vec](https://arxiv.org/abs/1607.00653), In: _Proceedings of KDD ’16_ (San Francisco, CA, USA, 2016), pp. 855-864.
++ Zanin, M., Papo, D. et al., [Combining complex networks and data mining: Why and how](https://arxiv.org/abs/1604.08816), _Phys. Rep._ **635**, 1-44 (2016).
++ Ma, K.-L. & Muelder, C.W., Large-scale graph visualization and analytics, _Computer_ **46**(7), 39-46 (2013).
 
 ###### Selected papers
 
-<span style="font-size:large;font-weight:bold;color:#B53737">TODO!</span>
++ Getoor, L. & Diehl, C.P., Link mining: A survey, _SIGKDD Explor._ **7**(2), 3–12 (2005).
++ Getoor, L., Friedman, N. et al., Learning probabilistic models of link structure, _J. Mach. Learn. Res._ **3**, 679–707 (2002).
++ Neville, J. & Jensen, D., Iterative classification in relational data, In: _Proceedings of SRL ’00_ (Austin, TX, USA, 2000), pp. 13–20.
++ Macskassy, S.A. & Provost, F., Classification in networked data: A toolkit and a univariate case study, _J. Mach. Learn. Res._ **8**, 935-983 (2007).
++ Bhagat, S., Cormode, G. & Muthukrishnan, S., Node classification in social networks, e-print _arXiv:1101.3291v1_, pp. 37 (2011).
++ Šubelj, L., Exploratory and predictive tasks of network community detection, In: _Proceedings of NetSci '15_ (Zaragoza, Spain, 2015), p. 1.
++ Hric, D., Peixoto, T.P. & Fortunato, S., [Network structure, metadata and the prediction of missing nodes](https://arxiv.org/abs/1604.00255), _Phys. Rev. X_ **6**(3), 031038 (2016).
++ Perozzi, B., Al-Rfou, R. & Skiena, S., [DeepWalk](https://arxiv.org/abs/1403.6652), In: _Proceedings of KDD ’14_ (New York, NY, USA, 2014), pp. 701-710.
++ Figueiredo, D.R., Ribeiro, L.F.R. & Saverese, P.H.P., [struc2vec](https://arxiv.org/abs/1704.03165), In: _Proceedings of KDD ’17_ (Halifax, Canada, 2017), pp. 1–9.
++ Peel, L., [Graph-based semi-supervised learning for relational networks](https://arxiv.org/abs/1612.05001), In: _Proceedings of SDM ’17_ (Houston, TX, USA, 2017), pp. 1-11.
+
+-
++ Eades, P., A heuristic for graph drawing, _Congressus Numerantium_ **42**, 146-160 (1984).
++ Kamada, T. & Kawai, S., An algorithm for drawing general undirected graphs, _Inform. Process. Lett._ **31**(1), 7-15 (1989).
++ Fruchterman, T.M.J. & Reingold, E.M., Graph drawing by force-directed placement, _Softw: Pract. Exper_. **21**(11), 1129-1164 (1991).
++ Kobourov, S.G., [Spring embedders and force directed graph drawing algorithms](https://arxiv.org/abs/1201.3011), e-print _arXiv:1201.3011v1_, pp. 23 (2012).
++ Gibson, H., Faith, J. & Vickers, P., A survey of two-dimensional graph layout techniques for information visualisation, _Infor. Visual._ **12**(3-4), 324-357 (2013).
+
+-
++ Šubelj, L., Furlan, Š. & Bajec, M., [An expert system for detecting automobile insurance fraud using social network analysis](https://arxiv.org/abs/1104.3904), _Expert Syst. Appl._ **38**(1), 1039-1052 (2011).
