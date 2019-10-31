@@ -6,7 +6,7 @@
 
 ###### Workshop schedule
 
-Thursday, **19th September 2019 at 3:30 PM** (4 hours with breaks)
+Thursday, **10th December 2019 at 3:30 PM** (4 hours with breaks)
 
 ###### Workshop location
 
@@ -16,13 +16,13 @@ Thursday, **19th September 2019 at 3:30 PM** (4 hours with breaks)
 
 + **GitHub** repository at [**http://github.com/lovre/netpy**](http://github.com/lovre/netpy)
 + **WWW** repository at [**http://lovro.lpt.fri.uni-lj.si/netpy**](http://lovro.lpt.fri.uni-lj.si/netpy)
-+ **Piazza** forum at [**http://piazza.com/fri.uni-lj.si/fall2019/netpy**](http://piazza.com/fri.uni-lj.si/fall2019/netpy)
++ **Piazza** forum at [**http://piazza.com/fri.uni-lj.si/winter2020/netpy**](http://piazza.com/fri.uni-lj.si/winter2020/netpy)
 + **Slovenian** dictionary at [**http://lovro.lpt.fri.uni-lj.si/netpy/dict.pdf**](http://lovro.lpt.fri.uni-lj.si/netpy/dict.pdf)
 
 ###### High-level description
 
 **The workshop is primarily aimed at Python programmers, either academics, professionals or students, that wish to learn the basics of modern network science and practical analyses of complex real networks, such as social, information and biological networks.** Familiarity with the basics of probability theory, statistics and linear algebra is strongly encouraged.
-The workshop is based on the Masters level course [**Introduction to Network Analysis**](http://lovro.lpt.fri.uni-lj.si/posters/frinets.pdf) offered at University of Ljubljana, Faculty of Computer and Information Science.
+The workshop is based on the Masters level course [**Network Analysis**](http://lovro.lpt.fri.uni-lj.si/posters/frinets.pdf) offered at University of Ljubljana, Faculty of Computer and Information Science.
 
 ###### Recommended prerequisites
 
@@ -34,10 +34,10 @@ The workshop is based on the Masters level course [**Introduction to Network Ana
 1. From classical graph theory to **modern network science** (30 min)
 2. **Large-scale structure** of real networks and graph **models** (50 min)
 3. Measures of **node importance** and link analysis **algorithms** (50 min)
-4. Network **community**, **core-periphery** and **equivalence** structure (50 min)
-5. Network-based **mining**, **visualization** and practical **applications** (50 min)
+4. Network **community**, **core-periphery** and other **structures** (50 min)
+5. Network-based **mining**, **visualization** and some **applications** (50 min)
 
-+ **Hands-on**: Abstraction, centrality, clusters, mining and visualization (~ min)
++ **Hands-on**: Abstraction, centrality, communities, mining, visualization etc. (~ min)
 
 ###### Networks data
 
