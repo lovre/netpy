@@ -37,7 +37,7 @@ The workshop is based on the Masters level course [**Network Analysis**](http://
 4. Network **community**, **core-periphery** and other **structures** (50 min)
 5. Network-based **mining**, **visualization** and some **applications** (50 min)
 
-+ **Hands-on**: Abstraction, centrality, communities, mining, visualization etc. (~ min)
++ **Hands-on**: Abstraction, centrality, communities, mining, visualization etc. 
 
 ###### Networks data
 
@@ -137,8 +137,11 @@ Classical **graph theory** and modern **network analysis**. **Random graphs**, *
 
 ###### Hands-on analysis
 
-+ Large-scale [**network structure and random graphs**](http://lovro.lpt.fri.uni-lj.si/netpy/networks.pdf)
++ [**Analysis**](http://lovro.lpt.fri.uni-lj.si/netpy/networks.pdf) of network structure and random graphs
 + [**Starter script**](http://lovro.lpt.fri.uni-lj.si/netpy/networks-starter.py) for network structure and random graphs
+
+###### Networks data
+
 + [**Zachary's karate club network**](http://lovro.lpt.fri.uni-lj.si/netpy/karate.net) in Pajek format
 + [**Davis's southern women network**](http://lovro.lpt.fri.uni-lj.si/netpy/women.net) in Pajek format
 + [**Lusseau's bottlenose dolphins network**](http://lovro.lpt.fri.uni-lj.si/netpy/dolphins.net) in Pajek format
@@ -199,8 +202,11 @@ Granovetter, M.S., The strength of weak ties, _Am. J. Sociol._ **78**(6), 1360-1
 
 ###### Hands-on analysis
 
-+ [**Node importance**](http://lovro.lpt.fri.uni-lj.si/netpy/position.pdf) in IMDb actors collaboration network
++ [**Analysis**](http://lovro.lpt.fri.uni-lj.si/netpy/position.pdf) of IMDb actors collaboration network
 + [**Starter script**](http://lovro.lpt.fri.uni-lj.si/netpy/position-starter.py) for IMDb actors collaboration network
+
+###### Networks data
+
 + [**IMDb actors collaboration network**](http://lovro.lpt.fri.uni-lj.si/netpy/imdb.net) in Pajek format
 
 ###### Book chapters
@@ -245,8 +251,11 @@ Network **community**, **core-periphery** and other **mesoscopic** structures. G
 
 ###### Hands-on analysis
 
-+ [**Community and $k$-cores detection**](http://lovro.lpt.fri.uni-lj.si/netpy/clusters.pdf) of real networks
++ [**Analysis**](http://lovro.lpt.fri.uni-lj.si/netpy/clusters.pdf) of community and $k$-cores structure
 + [**Starter script**](http://lovro.lpt.fri.uni-lj.si/netpy/clusters-starter.py) for community and $k$-cores detection
+
+###### Networks data
+
 + [**Zachary's karate club network**](http://lovro.lpt.fri.uni-lj.si/netpy/karate.net) in Pajek format
 + [**Davis's southern women network**](http://lovro.lpt.fri.uni-lj.si/netpy/women.net) in Pajek format
 + [**Lusseau's bottlenose dolphins network**](http://lovro.lpt.fri.uni-lj.si/netpy/dolphins.net) in Pajek format
@@ -307,7 +316,7 @@ Network-based node **clustering, classification and regression**. Force-directed
 
 ###### Hands-on analysis
 
-Left for **next time** =)
+To be **revealed in class** =)
 
 ###### Selected must-reads
 
