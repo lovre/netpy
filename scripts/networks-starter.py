@@ -28,11 +28,19 @@ def info(G):
   print("{0:>15s} | '{1:s}'".format('Type', '===' if multi else '---'))
   print("{0:>15s} | {1:,d}".format('Nodes', G.number_of_nodes()))
   print("{0:>15s} | {1:,d}".format('Edges', G.number_of_edges()))
-  print("{0:>15s} | {1:.1f} sec\n".format('Timing', time() - tic))
+  print("{0:>15s} | {1:.1f} sec\n".format('Time', time() - tic))
+
+tic = time()
+
+# Constructs a small toy graph
 
 G = nx.MultiGraph(name = 'toy')
 G.add_node(1)
 G.add_node(2)
 G.add_edge(1, 2)
 
+# Prints out statistics of toy graph
+
 info(G)
+
+print("{0:>15s} | {1:.1f} sec\n".format('Total', time() - tic))
