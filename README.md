@@ -6,7 +6,7 @@
 
 ###### Workshop schedule
 
-Thursday, **10th December 2019 at 3:30 PM** (4 hours with breaks)
+Tuesday, **10th December 2019 at 3:30 PM** (4 hours with breaks)
 
 ###### Workshop location
 
