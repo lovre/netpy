@@ -1,10 +1,68 @@
+          Graph | 'toy'
+           Type | '---'
+          Nodes | 5 (1)
+          Edges | 4 (0)
+         Degree | 1.6 (0, 3)
+        Density | 0.40000000
+     Components | 80.0% (2)
+      Distances | 1.333 (2)
+     Clustering | 0.466667
+           Time | 0.0 sec
+
+          Graph | 'karate'
+           Type | '---'
+          Nodes | 34 (0)
+          Edges | 78 (0)
+         Degree | 4.6 (1, 17)
+        Density | 0.13903743
+     Components | 100.0% (1)
+      Distances | 2.408 (5)
+     Clustering | 0.570638
+           Time | 0.0 sec
+
+          Graph | 'got-kills'
+           Type | '==='
+          Nodes | 284 (0)
+          Edges | 227 (45)
+         Degree | 1.6 (1, 11)
+        Density | 0.00564873
+     Components | 6.7% (103)
+      Distances | 2.737 (5)
+     Clustering | 0.000000
+           Time | 0.0 sec
+
+          Graph | 'lpp'
+           Type | '---'
+          Nodes | 416 (0)
+          Edges | 566 (0)
+         Degree | 2.7 (1, 14)
+        Density | 0.00655700
+     Components | 100.0% (1)
+      Distances | 14.040 (49)
+     Clustering | 0.094212
+           Time | 0.2 sec
+
+          Graph | 'ingredients'
+           Type | '---'
+          Nodes | 1,525 (18)
+          Edges | 221,777 (0)
+         Degree | 290.9 (0, 989)
+        Density | 0.19084979
+     Components | 98.1% (22)
+      Distances | 1.868 (4)
+     Clustering | 0.846403
+           Time | 55.7 sec
+
           Graph | 'imdb'
            Type | '---'
           Nodes | 17,577 (0)
           Edges | 287,074 (0)
-        Degrees | 32.7 (1, 784)
+         Degree | 32.7 (1, 784)
+        Density | 0.00185848
      Components | 99.3% (19)
-      Distances | 5.018 (15)
+      Distances | 4.969 (15)
      Clustering | 0.339056
-         Timing | 59.3 sec
+           Time | 64.4 sec
+
+          Total | 134.9 sec
 

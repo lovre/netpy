@@ -35,19 +35,25 @@ def info(G):
   print("{0:>15s} | {1:,d} ({2:,d})".format('Nodes', G.number_of_nodes(), nx.number_of_isolates(G)))
   print("{0:>15s} | {1:,d} ({2:,d})".format('Edges', G.number_of_edges(), nx.number_of_selfloops(G)))
   ks = [k for _, k in G.degree()]
-  print("{0:>15s} | {1:.1f} ({2:,d}, {3:,d})".format('Degrees', 2.0 * G.number_of_edges() / G.number_of_nodes(), min(ks), max(ks)))
+  print("{0:>15s} | {1:.1f} ({2:,d}, {3:,d})".format('Degree', 2.0 * G.number_of_edges() / G.number_of_nodes(), min(ks), max(ks)))
+  print("{0:>15s} | {1:.8f}".format('Density', 2.0 * G.number_of_edges() / G.number_of_nodes() / (G.number_of_nodes() - 1.0)))
   CCs = sorted(nx.connected_component_subgraphs(G), key = len, reverse = True)
   print("{0:>15s} | {1:.1f}% ({2:,d})".format('Components', 100.0 * CCs[0].number_of_nodes() / G.number_of_nodes(), len(CCs)))
   d, D = dists(CCs[0])
   print("{0:>15s} | {1:.3f} ({2:,d})".format('Distances', d, D))
   print("{0:>15s} | {1:.6f}".format('Clustering', nx.average_clustering(nx.Graph(G))))
-  print("{0:>15s} | {1:.1f} sec\n".format('Timing', time() - tic))
+  print("{0:>15s} | {1:.1f} sec\n".format('Time', time() - tic))
 
-# G = read('toy')
-# G = read('karate')
-# G = read('women')
-# G = read('got-kills')
-# G = read('lpp')
-G = read('imdb')
+tic = time()
 
-info(G)
+for file in ['toy', 'karate', 'got-kills', 'lpp', 'ingredients', 'imdb']:
+
+  # Constructs a graph of real network
+  
+  G = read(file)
+  
+  # Prints out statistics of real network
+  
+  info(G)
+
+print("{0:>15s} | {1:.1f} sec\n".format('Total', time() - tic))
