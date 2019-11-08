@@ -1,17 +1,34 @@
 import os
+import warnings
 from time import *
 import networkx as nx
 from cdlib import viz
+from cdlib.classes import *
 from cdlib import algorithms
 from matplotlib import pyplot as plt
 from random import sample
+
+warnings.filterwarnings('ignore')
 
 def read(file, path = '../nets'):
   """
   Construct undirected multigraph G from specified file in Pajek format.
   """
-  G = nx.read_pajek(os.path.join(path, file + '.net'))
-  G.name = file
+  G = nx.MultiGraph(name = file)
+  with open(os.path.join(path, file + '.net'), 'r') as file:
+    nodes = {}
+    for line in file:
+      if line.startswith('*vertices'):
+        continue
+      elif line.startswith('*edges') or line.startswith('*arcs'):
+        break
+      else:
+        node = line.strip().split('"')
+        nodes[node[0].strip()] = node[1]
+        G.add_node(node[1], id = int(node[0]), cluster = int(node[2]) - 1 if len(node[2]) > 0 else 0)
+    for line in file:
+      edge = line.strip().split(' ')
+      G.add_edge(nodes[edge[0]], nodes[edge[1]])
   return G
 
 def dists(G, n = 100):
@@ -38,48 +55,35 @@ def info(G):
   print("{0:>15s} | {1:,d} ({2:,d})".format('Nodes', G.number_of_nodes(), nx.number_of_isolates(G)))
   print("{0:>15s} | {1:,d} ({2:,d})".format('Edges', G.number_of_edges(), nx.number_of_selfloops(G)))
   ks = [k for _, k in G.degree()]
-  print("{0:>15s} | {1:.1f} ({2:,d}, {3:,d})".format('Degrees', 2.0 * G.number_of_edges() / G.number_of_nodes(), min(ks), max(ks)))
+  print("{0:>15s} | {1:.1f} ({2:,d}, {3:,d})".format('Degree', 2.0 * G.number_of_edges() / G.number_of_nodes(), min(ks), max(ks)))
+  print("{0:>15s} | {1:.8f}".format('Density', 2.0 * G.number_of_edges() / G.number_of_nodes() / (G.number_of_nodes() - 1.0)))
   CCs = sorted(nx.connected_component_subgraphs(G), key = len, reverse = True)
   print("{0:>15s} | {1:.1f}% ({2:,d})".format('Components', 100.0 * CCs[0].number_of_nodes() / G.number_of_nodes(), len(CCs)))
   d, D = dists(CCs[0])
   print("{0:>15s} | {1:.3f} ({2:,d})".format('Distances', d, D))
   print("{0:>15s} | {1:.6f}".format('Clustering', nx.average_clustering(nx.Graph(G))))
-  print("{0:>15s} | {1:.1f} sec\n".format('Timing', time() - tic))
+  print("{0:>15s} | {1:.1f} sec\n".format('Time', time() - tic))
 
-def clusters(G, alg):
-  """
-  Find clusters of undirected multigraph G and print out standard statistics.
-  """
-  tic = time()
-  print("{0:>15s} | '{1:s}'".format('Graph', G.name.replace('_', '-')))
-  cs = alg(G)
-  print("{0:>15s} | '{1:s}'".format('Algorithm', cs.method_name.lower()))
-  print("{0:>15s} | {1:,d} ({2:.1f})".format('Clusters', len(cs.communities), G.number_of_nodes() / len(cs.communities)))
-  print("{0:>15s} | {1:.1f} ({2:.1f}%)".format('Degrees', cs.average_internal_degree().score, 100.0 * cs.average_internal_degree().score * 0.5 * G.number_of_nodes() / G.number_of_edges()))
-  print("{0:>15s} | {1:.6f}".format('Modularity', cs.erdos_renyi_modularity().score))
-  print("{0:>15s} | {1:.6f}".format('Robustness', cs.normalized_mutual_information(alg(G)).score))
-  print("{0:>15s} | {1:.1f} sec\n".format('Timing', time() - tic))
-  return cs
+tic = time()
 
-# G = read('toy')
-G = read('karate')
-# G = read('women')
-# G = read('dolphins')
-# G = read('got-appearance')
-# G = read('diseasome')
-# G = read('wars')
-# G = read('transport')
-# G = read('java')
-# G = read('imdb')
-# G = read('wikileaks')
+for file in ['karate', 'women', 'dolphins']:
 
-info(G)
+  # Constructs a graph of real network
+  
+  G = read(file)
+  
+  # Prints out statistics of real network
+  
+  info(G)
 
-clusters(G, lambda G: algorithms.girvan_newman(G, level = 1))
-clusters(G, lambda G: algorithms.label_propagation(G))
-cs = clusters(G, lambda G: algorithms.louvain(G))
-# clusters(G, lambda G: algorithms.leiden(G))
-# clusters(G, lambda G: algorithms.sbm_dl(G))
+for file in ['got-appearance', 'diseasome', 'wars', 'transport', 'java', 'imdb', 'wikileaks']:
 
-viz.plot_network_clusters(G, cs, nx.spring_layout(G))
-plt.show()
+  # Constructs a graph of real network
+  
+  G = read(file)
+  
+  # Prints out statistics of real network
+  
+  info(G)
+
+print("{0:>15s} | {1:.1f} sec\n".format('Total', time() - tic))

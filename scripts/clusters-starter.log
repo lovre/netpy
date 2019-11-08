@@ -2,33 +2,111 @@
            Type | '---'
           Nodes | 34 (0)
           Edges | 78 (0)
-        Degrees | 4.6 (1, 17)
+         Degree | 4.6 (1, 17)
+        Density | 0.13903743
      Components | 100.0% (1)
       Distances | 2.408 (5)
      Clustering | 0.570638
-         Timing | 0.0 sec
+           Time | 0.0 sec
 
-          Graph | 'karate'
-      Algorithm | 'girvan newman'
-       Clusters | 2 (17.0)
-        Degrees | 4.0 (86.6%)
-     Modularity | 0.379816
-     Robustness | 1.000000
-         Timing | 0.2 sec
+          Graph | 'women'
+           Type | '---'
+          Nodes | 32 (0)
+          Edges | 89 (0)
+         Degree | 5.6 (2, 14)
+        Density | 0.17943548
+     Components | 100.0% (1)
+      Distances | 2.306 (4)
+     Clustering | 0.000000
+           Time | 0.0 sec
 
-          Graph | 'karate'
-      Algorithm | 'label propagation'
-       Clusters | 3 (11.3)
-        Degrees | 3.1 (67.8%)
-     Modularity | 0.362814
-     Robustness | 1.000000
-         Timing | 0.0 sec
+          Graph | 'dolphins'
+           Type | '---'
+          Nodes | 62 (0)
+          Edges | 159 (0)
+         Degree | 5.1 (1, 12)
+        Density | 0.08408250
+     Components | 100.0% (1)
+      Distances | 3.357 (8)
+     Clustering | 0.258958
+           Time | 0.0 sec
 
-          Graph | 'karate'
-      Algorithm | 'louvain'
-       Clusters | 4 (8.5)
-        Degrees | 3.1 (66.7%)
-     Modularity | 0.471205
-     Robustness | 1.000000
-         Timing | 0.0 sec
+          Graph | 'got-appearance'
+           Type | '---'
+          Nodes | 107 (0)
+          Edges | 352 (0)
+         Degree | 6.6 (1, 36)
+        Density | 0.06207018
+     Components | 100.0% (1)
+      Distances | 2.921 (6)
+     Clustering | 0.551443
+           Time | 0.1 sec
+
+          Graph | 'diseasome'
+           Type | '---'
+          Nodes | 117 (0)
+          Edges | 489 (0)
+         Degree | 8.4 (5, 45)
+        Density | 0.07206012
+     Components | 100.0% (1)
+      Distances | 2.599 (5)
+     Clustering | 0.409548
+           Time | 0.1 sec
+
+          Graph | 'wars'
+           Type | '---'
+          Nodes | 180 (29)
+          Edges | 1,247 (0)
+         Degree | 13.9 (0, 66)
+        Density | 0.07740534
+     Components | 80.0% (33)
+      Distances | 2.992 (10)
+     Clustering | 0.602630
+           Time | 0.2 sec
+
+          Graph | 'transport'
+           Type | '==='
+          Nodes | 1,323 (0)
+          Edges | 60,561 (254)
+         Degree | 91.6 (1, 3,837)
+        Density | 0.06925191
+     Components | 66.0% (14)
+      Distances | 3.125 (8)
+     Clustering | 0.486698
+           Time | 2.1 sec
+
+          Graph | 'java'
+           Type | '==='
+          Nodes | 1,516 (0)
+          Edges | 10,151 (0)
+         Degree | 13.4 (1, 1,322)
+        Density | 0.00883949
+     Components | 100.0% (1)
+      Distances | 2.186 (5)
+     Clustering | 0.685074
+           Time | 2.3 sec
+
+          Graph | 'imdb'
+           Type | '---'
+          Nodes | 17,577 (0)
+          Edges | 287,074 (0)
+         Degree | 32.7 (1, 784)
+        Density | 0.00185848
+     Components | 99.3% (19)
+      Distances | 4.882 (15)
+     Clustering | 0.339056
+           Time | 63.6 sec
+
+          Graph | 'wikileaks'
+           Type | '---'
+          Nodes | 52,416 (0)
+          Edges | 78,506 (0)
+         Degree | 3.0 (1, 384)
+        Density | 0.00005715
+     Components | 100.0% (1)
+      Distances | 22.496 (73)
+     Clustering | 0.186419
+           Time | 42.7 sec
+
+          Total | 113.6 sec
 
