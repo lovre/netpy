@@ -310,7 +310,7 @@ Network-based node **clustering, classification and regression**. Force-directed
 
 ###### Lecture slides
 
-+ [**Network-based node classification etc.**](http://lovro.lpt.fri.uni-lj.si/netpy/mining.pdf)
++ [**Network-based node mining etc.**](http://lovro.lpt.fri.uni-lj.si/netpy/mining.pdf)
 + [**Node layout and network visualization**](http://lovro.lpt.fri.uni-lj.si/netpy/visuals.pdf)
 + [**Fraud detection in automobile insurance**](http://lovro.lpt.fri.uni-lj.si/netpy/fraud.pdf)
 
