@@ -22,11 +22,11 @@ Tuesday, **10th December 2019 at 3:30 PM** (4 hours with breaks)
 ###### High-level description
 
 **The workshop is primarily aimed at Python programmers, either academics, professionals or students, that wish to learn the basics of modern network science and practical analyses of complex real networks, such as social, information and biological networks.** Familiarity with the basics of probability theory, statistics and linear algebra is strongly encouraged.
-The workshop is based on the Masters level course [**Network Analysis**](http://lovro.lpt.fri.uni-lj.si/posters/frinets.pdf) offered at University of Ljubljana, Faculty of Computer and Information Science.
+The workshop is based on masters level course [**Network Analysis**](http://lovro.lpt.fri.uni-lj.si/posters/frinets.pdf) offered at University of Ljubljana, Faculty of Computer and Information Science.
 
 ###### Recommended prerequisites
 
-**It is recommended that attendees bring a laptop with a working installation of [Python](http://www.python.org), [NetworkX](http://networkx.github.io) and [CDlib](http://cdlib.readthedocs.io) packages, and necessary dependencies. Alternatively, you can work with any other network analysis package such as [igraph](http://igraph.org), [graph-tool](http://graph-tool.skewed.de) or [SNAP.py](http://snap.stanford.edu/snappy/).** Finally, for the purposes of visualization of smaller networks, it is recommended to have a working installation of some network analysis software such as [Gephi](http://gephi.org) or [visone](http://visone.info).
+**It is recommended that attendees bring a laptop with working installation of [Python](http://www.python.org), [NetworkX](http://networkx.github.io) and [CDlib](http://cdlib.readthedocs.io) packages, and necessary dependencies. Alternatively, you can work with any other network analysis package such as [igraph](http://igraph.org), [graph-tool](http://graph-tool.skewed.de) or [SNAP.py](http://snap.stanford.edu/snappy/).** Finally, for the purposes of visualization of smaller networks, it is recommended to have working installation of some network analysis software such as [Gephi](http://gephi.org) or [visone](http://visone.info).
 
 ###### Tentative syllabus
 
@@ -81,7 +81,7 @@ To be **revealed in class** =)
 
 ###### Tentative duration
 
-**15+15 min**
+**20+10 min**
 
 ###### Brief description
 
