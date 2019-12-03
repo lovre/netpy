@@ -247,7 +247,7 @@ Network **community**, **core-periphery** and other **mesoscopic** structures. G
 + [**Node clustering and community structure**](http://lovro.lpt.fri.uni-lj.si/netpy/community.pdf)
 + [**Graph partitioning and community detection**](http://lovro.lpt.fri.uni-lj.si/netpy/clustering.pdf)
 + [**Blockmodeling and block models**](http://lovro.lpt.fri.uni-lj.si/netpy/blockmodeling.pdf) (tentative)
-+ [**Core-periphery structure and decomposition**](http://lovro.lpt.fri.uni-lj.si/netpy/cores.pdf) 
++ [**Core-periphery decomposition**](http://lovro.lpt.fri.uni-lj.si/netpy/cores.pdf) (tentative)
 
 ###### Hands-on analysis
 
