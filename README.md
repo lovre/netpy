@@ -310,9 +310,10 @@ Network-based node **clustering, classification and regression**. Force-directed
 
 ###### Lecture slides
 
-+ [**Network-based node mining etc.**](http://lovro.lpt.fri.uni-lj.si/netpy/mining.pdf)
-+ [**Node layout and network visualization**](http://lovro.lpt.fri.uni-lj.si/netpy/visuals.pdf)
-+ [**Fraud detection in automobile insurance**](http://lovro.lpt.fri.uni-lj.si/netpy/fraud.pdf)
++ [**Network-based node classification etc.**](http://lovro.lpt.fri.uni-lj.si/netpy/mining.pdf)
++ [**Network layout and visualization**](http://lovro.lpt.fri.uni-lj.si/netpy/visuals.pdf) (tentative)
++ [**Fraud detection and automobile insurance**](http://lovro.lpt.fri.uni-lj.si/netpy/fraud.pdf)
++ [**Historical development of scientific knowledge**](http://lovro.lpt.fri.uni-lj.si/netpy/science.pdf)
 
 ###### Hands-on analysis
 
@@ -348,3 +349,5 @@ To be **revealed in class** =)
 <span> </span>
 
 + Šubelj, L., Furlan, Š. & Bajec, M., [An expert system for detecting automobile insurance fraud using social network analysis](https://arxiv.org/abs/1104.3904), _Expert Syst. Appl._ **38**(1), 1039-1052 (2011).
++ Šubelj, L., Waltman, L. et al., [Intermediacy of publications](https://arxiv.org/abs/1812.08259), _R. Soc. Open Sci._, pp. 19 (2019). 
+
