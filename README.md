@@ -304,7 +304,7 @@ Network **community**, **core-periphery** and other **mesoscopic** structures. G
 
 ###### Brief description
 
-Network-based node **clustering, classification and regression**. Force-directed node layout and **network visualization**. Selected application(s) of network analysis (e.g. **automobile insurance fraud**).
+Network-based node **clustering, classification and regression**. Force-directed node layout and **network visualization**. Selected applications of network analysis (i.e. **automobile insurance fraud** and **historical development of science**).
 
 ![collisions](figs/collisions.png)
 
