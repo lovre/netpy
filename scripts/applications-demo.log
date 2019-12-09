@@ -1,0 +1,24 @@
+          Graph | 'karate'
+           Type | '---'
+          Nodes | 34 (0)
+          Edges | 78 (0)
+         Degree | 4.6 (1, 17)
+        Density | 0.13903743
+     Components | 100.0% (1)
+      Distances | 2.408 (5)
+     Clustering | 0.570638
+           Time | 0.0 sec
+
+          Graph | 'java'
+           Type | '==='
+          Nodes | 1,516 (0)
+          Edges | 10,151 (0)
+         Degree | 13.4 (1, 1,322)
+        Density | 0.00883949
+     Components | 100.0% (1)
+      Distances | 2.159 (5)
+     Clustering | 0.685074
+           Time | 2.2 sec
+
+          Total | 36.9 sec
+

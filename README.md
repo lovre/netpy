@@ -317,7 +317,12 @@ Network-based node **clustering, classification and regression**. Force-directed
 
 ###### Hands-on analysis
 
-To be **revealed in class** =)
++ [**Demo script**](http://lovro.lpt.fri.uni-lj.si/netpy/applications-demo.py) for network-based classification
+
+###### Networks data
+
++ [**Zachary's karate club network**](http://lovro.lpt.fri.uni-lj.si/netpy/karate.net) in Pajek format
++ [**Java software class dependency network**](http://lovro.lpt.fri.uni-lj.si/netpy/java.net) in Pajek format
 
 ###### Selected must-reads
 
