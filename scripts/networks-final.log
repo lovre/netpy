@@ -1,0 +1,364 @@
+          Graph | 'toy'
+           Type | '---'
+          Nodes | 5 (1)
+          Edges | 4 (0)
+         Degree | 1.6 (0, 3)
+        Density | 0.40000000
+     Components | 80.0% (2)
+      Distances | 1.333 (2)
+     Clustering | 0.466667
+           Time | 0.0 sec
+
+          Graph | 'toy'
+           Type | '---'
+          Nodes | 5 (1)
+          Edges | 4 (0)
+         Degree | 1.6 (0, 3)
+        Density | 0.40000000
+     Components | 80.0% (2)
+      Distances | 1.333 (2)
+     Clustering | 0.466667
+           Time | 0.0 sec
+
+          Graph | 'Erdös-Rényi'
+           Type | '---'
+          Nodes | 5 (1)
+          Edges | 4 (0)
+         Degree | 1.6 (0, 3)
+        Density | 0.40000000
+     Components | 80.0% (2)
+      Distances | 1.333 (2)
+     Clustering | 0.466667
+           Time | 0.0 sec
+
+          Graph | 'Barabási–Albert'
+           Type | '---'
+          Nodes | 5 (0)
+          Edges | 4 (0)
+         Degree | 1.6 (1, 4)
+        Density | 0.40000000
+     Components | 100.0% (1)
+      Distances | 1.600 (2)
+     Clustering | 0.000000
+           Time | 0.0 sec
+
+          Graph | 'Watts–Strogatz'
+           Type | '---'
+          Nodes | 5 (0)
+          Edges | 5 (0)
+         Degree | 2.0 (2, 2)
+        Density | 0.50000000
+     Components | 100.0% (1)
+      Distances | 1.500 (2)
+     Clustering | 0.000000
+           Time | 0.0 sec
+
+          Graph | 'karate'
+           Type | '---'
+          Nodes | 34 (0)
+          Edges | 78 (0)
+         Degree | 4.6 (1, 17)
+        Density | 0.13903743
+     Components | 100.0% (1)
+      Distances | 2.408 (5)
+     Clustering | 0.570638
+           Time | 0.0 sec
+
+          Graph | 'Erdös-Rényi'
+           Type | '---'
+          Nodes | 34 (1)
+          Edges | 78 (0)
+         Degree | 4.6 (0, 11)
+        Density | 0.13903743
+     Components | 97.1% (2)
+      Distances | 2.316 (5)
+     Clustering | 0.129732
+           Time | 0.0 sec
+
+          Graph | 'Barabási–Albert'
+           Type | '---'
+          Nodes | 34 (0)
+          Edges | 64 (0)
+         Degree | 3.8 (2, 20)
+        Density | 0.11408200
+     Components | 100.0% (1)
+      Distances | 2.346 (5)
+     Clustering | 0.324982
+           Time | 0.0 sec
+
+          Graph | 'Watts–Strogatz'
+           Type | '---'
+          Nodes | 34 (0)
+          Edges | 68 (0)
+         Degree | 4.0 (3, 5)
+        Density | 0.12121212
+     Components | 100.0% (1)
+      Distances | 3.645 (7)
+     Clustering | 0.443137
+           Time | 0.0 sec
+
+          Graph | 'women'
+           Type | '---'
+          Nodes | 32 (0)
+          Edges | 89 (0)
+         Degree | 5.6 (2, 14)
+        Density | 0.17943548
+     Components | 100.0% (1)
+      Distances | 2.306 (4)
+     Clustering | 0.000000
+           Time | 0.0 sec
+
+          Graph | 'Erdös-Rényi'
+           Type | '---'
+          Nodes | 32 (0)
+          Edges | 89 (0)
+         Degree | 5.6 (3, 10)
+        Density | 0.17943548
+     Components | 100.0% (1)
+      Distances | 2.117 (4)
+     Clustering | 0.197396
+           Time | 0.0 sec
+
+          Graph | 'Barabási–Albert'
+           Type | '---'
+          Nodes | 32 (0)
+          Edges | 87 (0)
+         Degree | 5.4 (3, 11)
+        Density | 0.17540323
+     Components | 100.0% (1)
+      Distances | 2.183 (4)
+     Clustering | 0.210074
+           Time | 0.0 sec
+
+          Graph | 'Watts–Strogatz'
+           Type | '---'
+          Nodes | 32 (0)
+          Edges | 96 (0)
+         Degree | 6.0 (5, 7)
+        Density | 0.19354839
+     Components | 100.0% (1)
+      Distances | 2.546 (5)
+     Clustering | 0.501935
+           Time | 0.0 sec
+
+          Graph | 'dolphins'
+           Type | '---'
+          Nodes | 62 (0)
+          Edges | 159 (0)
+         Degree | 5.1 (1, 12)
+        Density | 0.08408250
+     Components | 100.0% (1)
+      Distances | 3.357 (8)
+     Clustering | 0.258958
+           Time | 0.0 sec
+
+          Graph | 'Erdös-Rényi'
+           Type | '---'
+          Nodes | 62 (1)
+          Edges | 159 (0)
+         Degree | 5.1 (0, 10)
+        Density | 0.08408250
+     Components | 98.4% (2)
+      Distances | 2.611 (5)
+     Clustering | 0.069918
+           Time | 0.0 sec
+
+          Graph | 'Barabási–Albert'
+           Type | '---'
+          Nodes | 62 (0)
+          Edges | 177 (0)
+         Degree | 5.7 (2, 20)
+        Density | 0.09360127
+     Components | 100.0% (1)
+      Distances | 2.466 (4)
+     Clustering | 0.159670
+           Time | 0.0 sec
+
+          Graph | 'Watts–Strogatz'
+           Type | '---'
+          Nodes | 62 (0)
+          Edges | 124 (0)
+         Degree | 4.0 (3, 5)
+        Density | 0.06557377
+     Components | 100.0% (1)
+      Distances | 4.750 (10)
+     Clustering | 0.432796
+           Time | 0.0 sec
+
+          Graph | 'ingredients'
+           Type | '---'
+          Nodes | 1,525 (18)
+          Edges | 221,777 (0)
+         Degree | 290.9 (0, 989)
+        Density | 0.19084979
+     Components | 98.1% (22)
+      Distances | 1.925 (4)
+     Clustering | 0.846403
+           Time | 54.8 sec
+
+          Graph | 'Erdös-Rényi'
+           Type | '---'
+          Nodes | 1,525 (0)
+          Edges | 221,777 (0)
+         Degree | 290.9 (234, 348)
+        Density | 0.19084979
+     Components | 100.0% (1)
+      Distances | 1.810 (2)
+     Clustering | 0.190789
+           Time | 25.8 sec
+
+          Graph | 'Barabási–Albert'
+           Type | '---'
+          Nodes | 1,525 (0)
+          Edges | 200,100 (0)
+         Degree | 262.4 (145, 798)
+        Density | 0.17219569
+     Components | 100.0% (1)
+      Distances | 1.827 (2)
+     Clustering | 0.261446
+           Time | 23.0 sec
+
+          Graph | 'Watts–Strogatz'
+           Type | '---'
+          Nodes | 1,525 (0)
+          Edges | 221,125 (0)
+         Degree | 290.0 (278, 303)
+        Density | 0.19028871
+     Components | 100.0% (1)
+      Distances | 1.810 (3)
+     Clustering | 0.651037
+           Time | 20.5 sec
+
+          Graph | 'darknet'
+           Type | '==='
+          Nodes | 7,178 (0)
+          Edges | 25,104 (0)
+         Degree | 7.0 (1, 5,583)
+        Density | 0.00097460
+     Components | 100.0% (1)
+      Distances | 2.400 (5)
+     Clustering | 0.706111
+           Time | 11.8 sec
+
+          Graph | 'Erdös-Rényi'
+           Type | '---'
+          Nodes | 7,178 (3)
+          Edges | 25,104 (0)
+         Degree | 7.0 (0, 19)
+        Density | 0.00097460
+     Components | 100.0% (4)
+      Distances | 4.800 (8)
+     Clustering | 0.000964
+           Time | 3.8 sec
+
+          Graph | 'Barabási–Albert'
+           Type | '---'
+          Nodes | 7,178 (0)
+          Edges | 21,525 (0)
+         Degree | 6.0 (3, 247)
+        Density | 0.00083565
+     Components | 100.0% (1)
+      Distances | 4.189 (7)
+     Clustering | 0.007458
+           Time | 3.4 sec
+
+          Graph | 'Watts–Strogatz'
+           Type | '---'
+          Nodes | 7,178 (0)
+          Edges | 21,534 (0)
+         Degree | 6.0 (4, 9)
+        Density | 0.00083600
+     Components | 100.0% (1)
+      Distances | 10.652 (20)
+     Clustering | 0.515389
+           Time | 3.4 sec
+
+          Graph | 'ppi'
+           Type | '---'
+          Nodes | 19,634 (0)
+          Edges | 195,781 (2,245)
+         Degree | 19.9 (1, 1,984)
+        Density | 0.00101579
+     Components | 99.5% (59)
+      Distances | 3.351 (8)
+     Clustering | 0.110684
+           Time | 52.8 sec
+
+          Graph | 'Erdös-Rényi'
+           Type | '---'
+          Nodes | 19,634 (0)
+          Edges | 195,781 (0)
+         Degree | 19.9 (6, 39)
+        Density | 0.00101579
+     Components | 100.0% (1)
+      Distances | 3.639 (5)
+     Clustering | 0.000997
+           Time | 26.0 sec
+
+          Graph | 'Barabási–Albert'
+           Type | '---'
+          Nodes | 19,634 (0)
+          Edges | 196,240 (0)
+         Degree | 20.0 (10, 662)
+        Density | 0.00101817
+     Components | 100.0% (1)
+      Distances | 3.204 (5)
+     Clustering | 0.006652
+           Time | 27.3 sec
+
+          Graph | 'Watts–Strogatz'
+           Type | '---'
+          Nodes | 19,634 (0)
+          Edges | 196,340 (0)
+         Degree | 20.0 (16, 25)
+        Density | 0.00101869
+     Components | 100.0% (1)
+      Distances | 5.349 (8)
+     Clustering | 0.609208
+           Time | 19.0 sec
+
+          Graph | 'internet'
+           Type | '---'
+          Nodes | 75,885 (0)
+          Edges | 357,317 (0)
+         Degree | 9.4 (1, 13,346)
+        Density | 0.00012410
+     Components | 100.0% (1)
+      Distances | 5.807 (20)
+     Clustering | 0.160076
+           Time | 190.7 sec
+
+          Graph | 'Erdös-Rényi'
+           Type | '---'
+          Nodes | 75,885 (7)
+          Edges | 357,317 (0)
+         Degree | 9.4 (0, 27)
+        Density | 0.00012410
+     Components | 100.0% (8)
+      Distances | 5.241 (8)
+     Clustering | 0.000120
+           Time | 62.6 sec
+
+          Graph | 'Barabási–Albert'
+           Type | '---'
+          Nodes | 75,885 (0)
+          Edges | 379,400 (0)
+         Degree | 10.0 (5, 746)
+        Density | 0.00013177
+     Components | 100.0% (1)
+      Distances | 4.234 (6)
+     Clustering | 0.001247
+           Time | 64.4 sec
+
+          Graph | 'Watts–Strogatz'
+           Type | '---'
+          Nodes | 75,885 (0)
+          Edges | 303,540 (0)
+         Degree | 8.0 (5, 12)
+        Density | 0.00010542
+     Components | 100.0% (1)
+      Distances | 10.975 (17)
+     Clustering | 0.555058
+           Time | 40.9 sec
+
+          Total | 667.1 sec

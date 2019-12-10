@@ -1,0 +1,753 @@
+          Graph | 'toy'
+           Type | '---'
+          Nodes | 5 (1)
+          Edges | 4 (0)
+         Degree | 1.6 (0, 3)
+        Density | 0.40000000
+     Components | 80.0% (2)
+      Distances | 1.333 (2)
+     Clustering | 0.466667
+           Time | 0.0 sec
+
+          Graph | 'toy'
+     Centrality | 'degree'
+     0.75000000 | '3' (3)
+     0.50000000 | '1' (2)
+     0.50000000 | '2' (2)
+     0.25000000 | '4' (1)
+     0.00000000 | '5' (0)
+
+          Graph | 'toy'
+     Centrality | 'clustering'
+     1.00000000 | '1' (2)
+     1.00000000 | '2' (2)
+     0.33333333 | '3' (3)
+     0.00000000 | '4' (1)
+     0.00000000 | '5' (0)
+
+          Graph | 'toy'
+     Centrality | 'μ-clustering'
+     1.00000000 | '1' (2)
+     1.00000000 | '2' (2)
+     0.66666667 | '3' (3)
+     0.00000000 | '4' (1)
+     0.00000000 | '5' (0)
+
+          Graph | 'toy'
+     Centrality | 'eigenvector'
+     0.61166565 | '3' (3)
+     0.52266668 | '1' (2)
+     0.52266668 | '2' (2)
+     0.28196492 | '4' (1)
+     0.00005057 | '5' (0)
+
+          Graph | 'toy'
+     Centrality | 'pagerank'
+     0.35347942 | '3' (3)
+     0.23703911 | '1' (2)
+     0.23703911 | '2' (2)
+     0.13629777 | '4' (1)
+     0.03614458 | '5' (0)
+
+          Graph | 'toy'
+     Centrality | 'closeness'
+     0.75000000 | '3' (3)
+     0.56250000 | '1' (2)
+     0.56250000 | '2' (2)
+     0.45000000 | '4' (1)
+     0.00000000 | '5' (0)
+
+          Graph | 'toy'
+     Centrality | 'betweenness'
+     0.33333333 | '3' (3)
+     0.00000000 | '1' (2)
+     0.00000000 | '2' (2)
+     0.00000000 | '4' (1)
+     0.00000000 | '5' (0)
+
+          Graph | 'karate'
+           Type | '---'
+          Nodes | 34 (0)
+          Edges | 78 (0)
+         Degree | 4.6 (1, 17)
+        Density | 0.13903743
+     Components | 100.0% (1)
+      Distances | 2.408 (5)
+     Clustering | 0.570638
+           Time | 0.0 sec
+
+          Graph | 'karate'
+     Centrality | 'degree'
+     0.51515152 | '34' (17)
+     0.48484848 | '1' (16)
+     0.36363636 | '33' (12)
+     0.30303030 | '3' (10)
+     0.27272727 | '2' (9)
+     0.18181818 | '4' (6)
+     0.18181818 | '32' (6)
+     0.15151515 | '9' (5)
+     0.15151515 | '14' (5)
+     0.15151515 | '24' (5)
+     0.12121212 | '6' (4)
+     0.12121212 | '7' (4)
+     0.12121212 | '8' (4)
+     0.12121212 | '28' (4)
+     0.12121212 | '30' (4)
+
+          Graph | 'karate'
+     Centrality | 'clustering'
+     1.00000000 | '8' (4)
+     1.00000000 | '13' (2)
+     1.00000000 | '15' (2)
+     1.00000000 | '16' (2)
+     1.00000000 | '17' (2)
+     1.00000000 | '18' (2)
+     1.00000000 | '19' (2)
+     1.00000000 | '21' (2)
+     1.00000000 | '22' (2)
+     1.00000000 | '23' (2)
+     1.00000000 | '27' (2)
+     0.66666667 | '4' (6)
+     0.66666667 | '5' (3)
+     0.66666667 | '11' (3)
+     0.66666667 | '30' (4)
+
+          Graph | 'karate'
+     Centrality | 'μ-clustering'
+     3.33333333 | '4' (6)
+     3.00000000 | '8' (4)
+     2.66666667 | '2' (9)
+     2.40000000 | '14' (5)
+     2.25000000 | '1' (16)
+     2.20000000 | '3' (10)
+     2.16666667 | '33' (12)
+     2.00000000 | '9' (5)
+     2.00000000 | '30' (4)
+     1.76470588 | '34' (17)
+     1.60000000 | '24' (5)
+     1.50000000 | '6' (4)
+     1.50000000 | '7' (4)
+     1.50000000 | '31' (4)
+     1.33333333 | '5' (3)
+
+          Graph | 'karate'
+     Centrality | 'eigenvector'
+     0.37336600 | '34' (17)
+     0.35545047 | '1' (16)
+     0.31708946 | '3' (10)
+     0.30866950 | '33' (12)
+     0.26581854 | '2' (9)
+     0.22743312 | '9' (5)
+     0.22642500 | '14' (5)
+     0.21106960 | '4' (6)
+     0.19113975 | '32' (6)
+     0.17476893 | '31' (4)
+     0.17088168 | '8' (4)
+     0.15020079 | '24' (5)
+     0.14792803 | '20' (3)
+     0.13503012 | '30' (4)
+     0.13350727 | '28' (4)
+
+          Graph | 'karate'
+     Centrality | 'pagerank'
+     0.10091792 | '34' (17)
+     0.09700182 | '1' (16)
+     0.07169213 | '33' (12)
+     0.05707842 | '3' (10)
+     0.05287839 | '2' (9)
+     0.03715664 | '32' (6)
+     0.03586064 | '4' (6)
+     0.03152092 | '24' (5)
+     0.02976534 | '9' (5)
+     0.02953631 | '14' (5)
+     0.02911334 | '6' (4)
+     0.02911334 | '7' (4)
+     0.02628726 | '30' (4)
+     0.02563880 | '28' (4)
+     0.02458934 | '31' (4)
+
+          Graph | 'karate'
+     Centrality | 'closeness'
+     0.56896552 | '1' (16)
+     0.55932203 | '3' (10)
+     0.55000000 | '34' (17)
+     0.54098361 | '32' (6)
+     0.51562500 | '9' (5)
+     0.51562500 | '14' (5)
+     0.51562500 | '33' (12)
+     0.50000000 | '20' (3)
+     0.48529412 | '2' (9)
+     0.46478873 | '4' (6)
+     0.45833333 | '28' (4)
+     0.45833333 | '31' (4)
+     0.45205479 | '29' (3)
+     0.44000000 | '8' (4)
+     0.43421053 | '10' (2)
+
+          Graph | 'karate'
+     Centrality | 'betweenness'
+     0.43763528 | '1' (16)
+     0.30407498 | '34' (17)
+     0.14524711 | '33' (12)
+     0.14365681 | '3' (10)
+     0.13827561 | '32' (6)
+     0.05592683 | '9' (5)
+     0.05393669 | '2' (9)
+     0.04586340 | '14' (5)
+     0.03247505 | '20' (3)
+     0.02998737 | '6' (4)
+     0.02998737 | '7' (4)
+     0.02233345 | '28' (4)
+     0.01761364 | '24' (5)
+     0.01441198 | '31' (4)
+     0.01190927 | '4' (6)
+
+          Graph | 'got-kills'
+           Type | '---'
+          Nodes | 284 (0)
+          Edges | 226 (45)
+         Degree | 1.6 (1, 11)
+        Density | 0.00562385
+     Components | 6.7% (103)
+      Distances | 2.737 (5)
+     Clustering | 0.000000
+           Time | 0.0 sec
+
+          Graph | 'got-kills'
+     Centrality | 'degree'
+     0.03886926 | 'Jon Snow' (11)
+     0.03533569 | 'Sandor Clegane' (10)
+     0.03533569 | 'Arya Stark' (10)
+     0.02826855 | 'Ramsay Bolton' (8)
+     0.02473498 | 'Daenerys Targaryen' (7)
+     0.02120141 | 'Daario Naharis' (6)
+     0.02120141 | 'Cersei' (6)
+     0.01766784 | 'Jorah Mormont' (5)
+     0.01766784 | 'Brienne' (5)
+     0.01766784 | 'Ygritte' (5)
+     0.01413428 | 'Ned Stark' (4)
+     0.01413428 | 'Jamie Lannister' (4)
+     0.01413428 | 'Pyat Pree' (4)
+     0.01413428 | 'Dagmer' (4)
+     0.01413428 | 'Drogon' (4)
+
+          Graph | 'got-kills'
+     Centrality | 'clustering'
+     0.00000000 | 'Waymar Royce' (2)
+     0.00000000 | 'Gared' (2)
+     0.00000000 | 'Will' (1)
+     0.00000000 | 'Ned Stark' (4)
+     0.00000000 | 'Lord Jon Arryn' (2)
+     0.00000000 | 'Catspaw assassin' (1)
+     0.00000000 | 'Summer' (3)
+     0.00000000 | 'Mycah' (1)
+     0.00000000 | 'Sandor Clegane' (10)
+     0.00000000 | 'Lady' (1)
+     0.00000000 | 'Ser Hugh of the Vale' (2)
+     0.00000000 | 'Kurleket' (1)
+     0.00000000 | 'Hill Tribesmen' (2)
+     0.00000000 | 'Ser Willis Wode' (1)
+     0.00000000 | 'Wyl' (1)
+
+          Graph | 'got-kills'
+     Centrality | 'μ-clustering'
+     0.00000000 | 'Waymar Royce' (2)
+     0.00000000 | 'Gared' (2)
+     0.00000000 | 'Will' (1)
+     0.00000000 | 'Ned Stark' (4)
+     0.00000000 | 'Lord Jon Arryn' (2)
+     0.00000000 | 'Catspaw assassin' (1)
+     0.00000000 | 'Summer' (3)
+     0.00000000 | 'Mycah' (1)
+     0.00000000 | 'Sandor Clegane' (10)
+     0.00000000 | 'Lady' (1)
+     0.00000000 | 'Ser Hugh of the Vale' (2)
+     0.00000000 | 'Kurleket' (1)
+     0.00000000 | 'Hill Tribesmen' (2)
+     0.00000000 | 'Ser Willis Wode' (1)
+     0.00000000 | 'Wyl' (1)
+
+          Graph | 'got-kills'
+     Centrality | 'eigenvector'
+     0.68220030 | 'Jon Snow' (11)
+     0.28105422 | 'White Walker Lieutenant' (3)
+     0.22855441 | 'Olly' (2)
+     0.21757201 | 'Karl Tanner' (2)
+     0.21757201 | 'Styr' (2)
+     0.19904944 | 'Qhorin Halfhand' (1)
+     0.19904944 | 'Orell' (1)
+     0.19904944 | 'King Mance Rayder' (1)
+     0.19904944 | 'Lord Janos Slynt' (1)
+     0.19904944 | 'First Steward Bowen Marsh' (1)
+     0.19904944 | 'First Builder Othell Yarwyck' (1)
+     0.19904944 | 'Ser Alliser Thorne' (1)
+     0.10112199 | 'Ygritte' (5)
+     0.06348221 | 'Craster' (1)
+     0.06348221 | 'Olly's Mother' (1)
+
+          Graph | 'got-kills'
+     Centrality | 'pagerank'
+     0.01808847 | 'Sandor Clegane' (10)
+     0.01794469 | 'Jon Snow' (11)
+     0.01755129 | 'Arya Stark' (10)
+     0.01388802 | 'Ramsay Bolton' (8)
+     0.01248100 | 'Daenerys Targaryen' (7)
+     0.01161410 | 'Daario Naharis' (6)
+     0.01161410 | 'Cersei' (6)
+     0.00999550 | 'Brienne' (5)
+     0.00963027 | 'Jorah Mormont' (5)
+     0.00897252 | 'Ygritte' (5)
+     0.00837691 | 'Ned Stark' (4)
+     0.00837691 | 'Jamie Lannister' (4)
+     0.00763359 | 'Pyat Pree' (4)
+     0.00763359 | 'Drogon' (4)
+     0.00731303 | 'Dagmer' (4)
+
+          Graph | 'got-kills'
+     Centrality | 'closeness'
+     0.03947849 | 'Jon Snow' (11)
+     0.03634528 | 'Arya Stark' (10)
+     0.03533569 | 'Sandor Clegane' (10)
+     0.03317629 | 'Ramsay Bolton' (8)
+     0.03180212 | 'Olly' (2)
+     0.02718130 | 'Daenerys Targaryen' (7)
+     0.02601992 | 'Karl Tanner' (2)
+     0.02601992 | 'Styr' (2)
+     0.02544170 | 'Ygritte' (5)
+     0.02488862 | 'Qhorin Halfhand' (1)
+     0.02488862 | 'Orell' (1)
+     0.02488862 | 'King Mance Rayder' (1)
+     0.02488862 | 'Lord Janos Slynt' (1)
+     0.02488862 | 'White Walker Lieutenant' (3)
+     0.02488862 | 'First Steward Bowen Marsh' (1)
+
+          Graph | 'got-kills'
+     Centrality | 'betweenness'
+     0.00340827 | 'Jon Snow' (11)
+     0.00172919 | 'Ramsay Bolton' (8)
+     0.00162895 | 'Olly' (2)
+     0.00160389 | 'Arya Stark' (10)
+     0.00155377 | 'Ygritte' (5)
+     0.00112773 | 'Sandor Clegane' (10)
+     0.00102749 | 'Daenerys Targaryen' (7)
+     0.00082701 | 'Dagmer' (4)
+     0.00057640 | 'Osha' (3)
+     0.00042603 | 'Khal Drogo' (3)
+     0.00042603 | 'Karl Tanner' (2)
+     0.00042603 | 'Styr' (2)
+     0.00037591 | 'Pyat Pree' (4)
+     0.00037591 | 'Drogon' (4)
+     0.00037591 | 'Daario Naharis' (6)
+
+          Graph | 'lpp'
+           Type | '---'
+          Nodes | 416 (0)
+          Edges | 566 (0)
+         Degree | 2.7 (1, 14)
+        Density | 0.00655700
+     Components | 100.0% (1)
+      Distances | 14.943 (50)
+     Clustering | 0.094212
+           Time | 0.1 sec
+
+          Graph | 'lpp'
+     Centrality | 'degree'
+     0.03373494 | 'gosposvetska' (14)
+     0.02891566 | 'bavarski dvor' (12)
+     0.02650602 | 'razstavisce' (11)
+     0.02650602 | 'ajdovscina' (11)
+     0.02650602 | 'konzorcij' (11)
+     0.02409639 | 'drama' (10)
+     0.02409639 | 'tobacna' (10)
+     0.02409639 | 'hajdrihova' (10)
+     0.02168675 | 'bezigrad' (9)
+     0.01927711 | 'askerceva' (8)
+     0.01927711 | 'kino siska' (8)
+     0.01927711 | 'stara cerkev' (8)
+     0.01927711 | 'tivoli' (8)
+     0.01927711 | 'sentvid' (8)
+     0.01686747 | 'ambrozev trg' (7)
+
+          Graph | 'lpp'
+     Centrality | 'clustering'
+     1.00000000 | 'na zalah' (2)
+     1.00000000 | 'kranjceva' (2)
+     1.00000000 | 'hrastje' (2)
+     1.00000000 | 'zadvor' (2)
+     1.00000000 | 'kpl' (2)
+     1.00000000 | 'rast' (2)
+     1.00000000 | 'pod golovcem' (2)
+     1.00000000 | 'pod kamno gorico' (2)
+     1.00000000 | 'opekarska' (2)
+     1.00000000 | 'zalog' (2)
+     1.00000000 | 'saturnus' (2)
+     1.00000000 | 'pot na fuzine' (2)
+     1.00000000 | 'dobrusa lipa' (2)
+     1.00000000 | 'kolezija' (2)
+     1.00000000 | 'kozarje' (2)
+
+          Graph | 'lpp'
+     Centrality | 'μ-clustering'
+     2.20000000 | 'drama' (10)
+     2.00000000 | 'posta' (6)
+     1.71428571 | 'gosposvetska' (14)
+     1.66666667 | 'poljanska' (6)
+     1.63636364 | 'ajdovscina' (11)
+     1.60000000 | 'hajdrihova' (10)
+     1.33333333 | 'flajsmanova' (3)
+     1.33333333 | 'kodrova' (3)
+     1.33333333 | 'roska' (3)
+     1.33333333 | 'nove jarse' (3)
+     1.33333333 | 'nove jarse - sm.' (3)
+     1.20000000 | 'tobacna' (10)
+     1.20000000 | 'bavarski dvor (kozolec)' (5)
+     1.20000000 | 'tabor' (5)
+     1.20000000 | 'mirje' (5)
+
+          Graph | 'lpp'
+     Centrality | 'eigenvector'
+     0.36175634 | 'gosposvetska' (14)
+     0.31272978 | 'ajdovscina' (11)
+     0.30801175 | 'drama' (10)
+     0.25906801 | 'konzorcij' (11)
+     0.23696655 | 'askerceva' (8)
+     0.22614741 | 'bavarski dvor' (12)
+     0.20658752 | 'tivoli' (8)
+     0.19947563 | 'posta' (6)
+     0.19044787 | 'tobacna' (10)
+     0.18102452 | 'bavarski dvor (kozolec)' (5)
+     0.17650867 | 'stara cerkev' (8)
+     0.15113628 | 'razstavisce' (11)
+     0.14494627 | 'kozolec' (4)
+     0.14436213 | 'bavarski dvor (korabar)' (5)
+     0.13776449 | 'hajdrihova' (10)
+
+          Graph | 'lpp'
+     Centrality | 'pagerank'
+     0.00711283 | 'gosposvetska' (14)
+     0.00696127 | 'bavarski dvor' (12)
+     0.00668270 | 'razstavisce' (11)
+     0.00617229 | 'bezigrad' (9)
+     0.00594558 | 'konzorcij' (11)
+     0.00576498 | 'ajdovscina' (11)
+     0.00534423 | 'hajdrihova' (10)
+     0.00513927 | 'tobacna' (10)
+     0.00513301 | 'drama' (10)
+     0.00511777 | 'sentvid' (8)
+     0.00499804 | 'sola jarse' (6)
+     0.00490037 | 'vizmarje' (7)
+     0.00478406 | 'ambrozev trg' (7)
+     0.00433534 | 'stara cerkev' (8)
+     0.00433404 | 'kino siska' (8)
+
+          Graph | 'lpp'
+     Centrality | 'closeness'
+     0.12318195 | 'drama' (10)
+     0.12070971 | 'askerceva' (8)
+     0.11994220 | 'gosposvetska' (14)
+     0.11843607 | 'bavarski dvor (kozolec)' (5)
+     0.11783078 | 'ajdovscina' (11)
+     0.11766374 | 'konzorcij' (11)
+     0.11729791 | 'bavarski dvor' (12)
+     0.11700028 | 'stara cerkev' (8)
+     0.11696731 | 'tivoli' (8)
+     0.11693435 | 'krizanke' (3)
+     0.11657303 | 'posta' (6)
+     0.11576011 | 'tobacna' (10)
+     0.11563110 | 'bavarski dvor (korabar)' (5)
+     0.11483121 | 'mirje' (5)
+     0.11445119 | 'razstavisce' (11)
+
+          Graph | 'lpp'
+     Centrality | 'betweenness'
+     0.23716003 | 'razstavisce' (11)
+     0.19617481 | 'drama' (10)
+     0.18454824 | 'stan in dom (lj. ilirija)*' (4)
+     0.18386326 | 'tobacna' (10)
+     0.17412258 | 'vic' (4)
+     0.17127510 | 'gornji trg' (4)
+     0.16241567 | 'krizanke' (3)
+     0.16238869 | 'dolgi most (lj. dolgi most gruda)*' (4)
+     0.15723765 | 'dolgi most rotar' (5)
+     0.15482219 | 'strelisce' (3)
+     0.15115535 | 'rakovnik' (3)
+     0.14429387 | 'bavarski dvor (kozolec)' (5)
+     0.13947993 | 'smartno' (5)
+     0.13889762 | 'spodnji rudnik' (3)
+     0.13207445 | 'askerceva' (8)
+
+          Graph | 'ingredients'
+           Type | '---'
+          Nodes | 1,525 (18)
+          Edges | 221,777 (0)
+         Degree | 290.9 (0, 989)
+        Density | 0.19084979
+     Components | 98.1% (22)
+      Distances | 1.911 (4)
+     Clustering | 0.846403
+           Time | 38.5 sec
+
+          Graph | 'ingredients'
+     Centrality | 'degree'
+     0.64895013 | 'black_tea' (989)
+     0.63385827 | 'green_tea' (966)
+     0.63385827 | 'roasted_green_tea' (966)
+     0.62401575 | 'bantu_beer' (951)
+     0.62335958 | 'fermented_tea' (950)
+     0.62204724 | 'beer' (948)
+     0.62204724 | 'rooibus_tea' (948)
+     0.62139108 | 'ceylon_tea' (947)
+     0.62139108 | 'seychelles_tea' (947)
+     0.62007874 | 'strawberry' (945)
+     0.61876640 | 'dried_black_tea' (943)
+     0.61876640 | 'dried_green_tea' (943)
+     0.61811024 | 'brewed_tea' (942)
+     0.61811024 | 'fermented_russian_black_tea' (942)
+     0.61811024 | 'jasmine_tea' (942)
+
+          Graph | 'ingredients'
+     Centrality | 'clustering'
+     1.00000000 | 'abies_alba' (22)
+     1.00000000 | 'abies_alba_pine_needle' (48)
+     1.00000000 | 'abies_balsamea_oil' (175)
+     1.00000000 | 'abies_canadensis' (22)
+     1.00000000 | 'abies_concolor' (22)
+     1.00000000 | 'acacia_dealbata' (209)
+     1.00000000 | 'acacia_farnesiana_oil' (12)
+     1.00000000 | 'acacia_flower_oil' (74)
+     1.00000000 | 'achasma_walang' (13)
+     1.00000000 | 'achillea_micrantha_oil' (84)
+     1.00000000 | 'aconitum_napellus' (3)
+     1.00000000 | 'agaricus' (9)
+     1.00000000 | 'agastache_formosana' (31)
+     1.00000000 | 'agastache_rugosa' (31)
+     1.00000000 | 'agathosma_gnidioides_leaf_oil' (5)
+
+          Graph | 'ingredients'
+     Centrality | 'μ-clustering'
+   470.70499244 | 'pecan' (661)
+   469.40271493 | 'roasted_pecan' (663)
+   467.39363484 | 'boiled_meat' (597)
+   467.39363484 | 'ewe' (597)
+   467.39363484 | 'meat' (597)
+   467.39363484 | 'red_meat' (597)
+   467.34868421 | 'seal' (608)
+   466.71571906 | 'smoked_sausage' (598)
+   466.40333333 | 'roasted_meat' (600)
+   466.00333890 | 'whale' (599)
+   464.92512479 | 'smoked_summer_sausage' (601)
+   464.23880597 | 'guineafowl' (603)
+   464.05864198 | 'lamb' (648)
+   464.05864198 | 'raw_lamb' (648)
+   464.05864198 | 'roasted_lamb' (648)
+
+          Graph | 'ingredients'
+     Centrality | 'eigenvector'
+     0.05018721 | 'black_tea' (989)
+     0.05003694 | 'roasted_green_tea' (966)
+     0.05003694 | 'green_tea' (966)
+     0.04995170 | 'fermented_tea' (950)
+     0.04994119 | 'rooibus_tea' (948)
+     0.04993224 | 'ceylon_tea' (947)
+     0.04993224 | 'seychelles_tea' (947)
+     0.04991620 | 'dried_black_tea' (943)
+     0.04991620 | 'dried_green_tea' (943)
+     0.04991574 | 'fermented_russian_black_tea' (942)
+     0.04991574 | 'jasmine_tea' (942)
+     0.04991574 | 'kola_tea' (942)
+     0.04991574 | 'tea' (942)
+     0.04991574 | 'brewed_tea' (942)
+     0.04991574 | 'pouching_tea' (942)
+
+          Graph | 'ingredients'
+     Centrality | 'pagerank'
+     0.00221617 | 'black_tea' (989)
+     0.00210037 | 'raspberry' (918)
+     0.00208977 | 'israeli_orange' (925)
+     0.00207173 | 'orange' (920)
+     0.00207173 | 'california_orange' (920)
+     0.00206815 | 'green_tea' (966)
+     0.00206815 | 'roasted_green_tea' (966)
+     0.00205935 | 'bantu_beer' (951)
+     0.00205244 | 'beer' (948)
+     0.00202761 | 'strawberry' (945)
+     0.00201210 | 'white_wine' (934)
+     0.00198206 | 'fermented_tea' (950)
+     0.00197149 | 'rooibus_tea' (948)
+     0.00196082 | 'seychelles_tea' (947)
+     0.00196082 | 'ceylon_tea' (947)
+
+          Graph | 'ingredients'
+     Centrality | 'closeness'
+     0.73217765 | 'black_tea' (989)
+     0.72386566 | 'green_tea' (966)
+     0.72386566 | 'roasted_green_tea' (966)
+     0.71889796 | 'bantu_beer' (951)
+     0.71819385 | 'fermented_tea' (950)
+     0.71784231 | 'beer' (948)
+     0.71749111 | 'rooibus_tea' (948)
+     0.71714026 | 'ceylon_tea' (947)
+     0.71714026 | 'seychelles_tea' (947)
+     0.71714026 | 'strawberry' (945)
+     0.71574028 | 'dried_black_tea' (943)
+     0.71574028 | 'dried_green_tea' (943)
+     0.71539114 | 'brewed_tea' (942)
+     0.71539114 | 'fermented_russian_black_tea' (942)
+     0.71539114 | 'jasmine_tea' (942)
+
+          Graph | 'ingredients'
+     Centrality | 'betweenness'
+     0.01008042 | 'black_tea' (989)
+     0.00949414 | 'ginger' (855)
+     0.00892985 | 'french_lavender' (686)
+     0.00838336 | 'raspberry' (918)
+     0.00792567 | 'israeli_orange' (925)
+     0.00749907 | 'coriander' (738)
+     0.00748373 | 'california_orange' (920)
+     0.00748373 | 'orange' (920)
+     0.00744006 | 'cinnamon' (791)
+     0.00696627 | 'vanilla' (748)
+     0.00682901 | 'lavender' (669)
+     0.00673291 | 'bantu_beer' (951)
+     0.00666883 | 'beer' (948)
+     0.00639378 | 'strawberry' (945)
+     0.00619813 | 'butter' (855)
+
+          Graph | 'imdb'
+           Type | '---'
+          Nodes | 17,577 (0)
+          Edges | 287,074 (0)
+         Degree | 32.7 (1, 784)
+        Density | 0.00185848
+     Components | 99.3% (19)
+      Distances | 4.807 (16)
+     Clustering | 0.339056
+           Time | 34.8 sec
+
+          Graph | 'imdb'
+     Centrality | 'degree'
+     0.04460628 | 'Davis, Mark (V)' (784)
+     0.03470642 | 'Sanders, Alex (I)' (610)
+     0.03408056 | 'North, Peter (I)' (599)
+     0.03322713 | 'Marcus, Mr.' (584)
+     0.03191853 | 'Tedeschi, Tony' (561)
+     0.03157715 | 'Dough, Jon' (555)
+     0.03100819 | 'Stone, Lee (II)' (545)
+     0.03032544 | 'Voyeur, Vince' (533)
+     0.02844788 | 'Lawrence, Joel (II)' (500)
+     0.02804961 | 'Steele, Lexington' (493)
+     0.02787893 | 'Ashley, Jay' (490)
+     0.02702549 | 'Boy, T.T.' (475)
+     0.02679791 | 'Cannon, Chris (III)' (471)
+     0.02679791 | 'Jeremy, Ron' (471)
+     0.02634274 | 'Bune, Tyce' (463)
+
+          Graph | 'imdb'
+     Centrality | 'clustering'
+     1.00000000 | 'Dayan, Assi' (3)
+     1.00000000 | 'Chun, Charles' (8)
+     1.00000000 | 'Zacher, Rolf' (2)
+     1.00000000 | 'Savary, Jeanne' (9)
+     1.00000000 | 'Espinosa, Ace' (2)
+     1.00000000 | 'Boj�rquez, Freddy' (3)
+     1.00000000 | 'Lloyd, Emily' (2)
+     1.00000000 | 'Korm�kur, Baltasar' (2)
+     1.00000000 | 'Vischer, Lisa' (3)
+     1.00000000 | 'Padilla, Rustom' (2)
+     1.00000000 | 'Sprinkle, Annie' (6)
+     1.00000000 | 'Butler, Yancy' (2)
+     1.00000000 | 'Gullette, Sean' (3)
+     1.00000000 | 'Theissen, Felix' (8)
+     1.00000000 | 'Brooks, Joel (I)' (2)
+
+          Graph | 'imdb'
+     Centrality | 'μ-clustering'
+   171.14814815 | 'Helms, Shane' (216)
+   171.12442396 | 'Wilson, Torrie' (217)
+   171.12264151 | 'Matthews, Darren (II)' (212)
+   171.06976744 | 'Greenwald, Nora' (215)
+   171.06976744 | 'Keibler, Stacy' (215)
+   170.89719626 | 'Jindrak, Mark' (214)
+   170.59728507 | 'Wight, Paul' (221)
+   170.56744186 | 'Guerrero Jr., Chavo' (215)
+   170.54128440 | 'Bischoff, Eric' (218)
+   170.52830189 | 'Hugger, John' (212)
+   170.37442922 | 'Flair, Ric' (219)
+   170.16666667 | 'Layfield, John' (192)
+   170.14611872 | 'Huffman, Booker' (219)
+   169.97247706 | 'Gruner, Peter' (218)
+   169.91428571 | 'O&apos;Haire, Sean' (210)
+
+          Graph | 'imdb'
+     Centrality | 'eigenvector'
+     0.09985030 | 'Davis, Mark (V)' (784)
+     0.08641419 | 'Sanders, Alex (I)' (610)
+     0.08185980 | 'Tedeschi, Tony' (561)
+     0.07990012 | 'Marcus, Mr.' (584)
+     0.07854675 | 'Dough, Jon' (555)
+     0.07526649 | 'North, Peter (I)' (599)
+     0.07491203 | 'Ashley, Jay' (490)
+     0.07431884 | 'Stone, Lee (II)' (545)
+     0.07389964 | 'Lawrence, Joel (II)' (500)
+     0.07381158 | 'Cannon, Chris (III)' (471)
+     0.07359709 | 'Stone, Kyle' (450)
+     0.07345716 | 'Voyeur, Vince' (533)
+     0.07286583 | 'Bune, Tyce' (463)
+     0.06960388 | 'Steele, Lexington' (493)
+     0.06881123 | 'Boy, T.T.' (475)
+
+          Graph | 'imdb'
+     Centrality | 'pagerank'
+     0.00063437 | 'Hanks, Tom' (457)
+     0.00061927 | 'Jackson, Samuel L.' (427)
+     0.00058831 | 'Goldberg, Whoopi' (398)
+     0.00054368 | 'Berl�and, Fran�ois' (194)
+     0.00053977 | 'Stiller, Ben' (382)
+     0.00053517 | 'Davis, Mark (V)' (784)
+     0.00051208 | 'Berry, Halle' (376)
+     0.00050572 | 'Lopez, Jennifer (I)' (410)
+     0.00048925 | 'Diaz, Cameron' (361)
+     0.00047790 | 'Jeremy, Ron' (471)
+     0.00046767 | 'Travolta, John' (335)
+     0.00044558 | 'Baldwin, Alec' (318)
+     0.00044141 | 'Cruise, Tom' (336)
+     0.00044140 | 'Myers, Mike (I)' (345)
+     0.00043948 | 'Schwarzenegger, Arnold' (333)
+
+          Graph | 'imdb'
+     Centrality | 'closeness'
+     0.30711850 | 'Jackson, Samuel L.' (427)
+     0.30562388 | 'Goldberg, Whoopi' (398)
+     0.30378125 | 'Berry, Halle' (376)
+     0.30354717 | 'Diaz, Cameron' (361)
+     0.30311188 | 'Hanks, Tom' (457)
+     0.30260387 | 'Stiller, Ben' (382)
+     0.30051054 | 'Myers, Mike (I)' (345)
+     0.30050533 | 'Douglas, Michael (I)' (263)
+     0.29912584 | 'Lopez, Jennifer (I)' (410)
+     0.29862080 | 'De Niro, Robert' (257)
+     0.29839973 | 'Willis, Bruce (I)' (137)
+     0.29832269 | 'Cruise, Tom' (336)
+     0.29725852 | 'Hopper, Dennis' (231)
+     0.29669372 | 'Kidman, Nicole' (280)
+     0.29648057 | 'Smith, Will (I)' (326)
+
+          Graph | 'imdb'
+     Centrality | 'betweenness'
+     0.06311817 | 'Jeremy, Ron' (471)
+     0.03054022 | 'Chan, Jackie (I)' (135)
+     0.02803942 | 'Cruz, Pen�lope' (182)
+     0.02781177 | 'Shahlavi, Darren' (8)
+     0.02762787 | 'Del Rosario, Monsour' (6)
+     0.02614037 | 'Depardieu, G�rard' (159)
+     0.01664139 | 'Bachchan, Amitabh' (66)
+     0.01644305 | 'Jackson, Samuel L.' (427)
+     0.01533298 | 'Soualem, Zinedine' (121)
+     0.01499774 | 'Del Rio, Olivia' (168)
+     0.01383615 | 'Jaenicke, Hannes' (73)
+     0.01370930 | 'Hayek, Salma' (185)
+     0.01358690 | 'Pel�' (7)
+     0.01335446 | 'Knaup, Herbert' (63)
+     0.01328348 | 'Goldberg, Whoopi' (398)
+
+          Total | ? sec
